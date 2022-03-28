@@ -3,7 +3,7 @@ title: "Pokračování příběhu v\_podání Hester Pinhornové, kuchařky ve s
 contentType: prose
 ---
 
-Sepsáno podle jejího ústního prohlášení
+**_Sepsáno podle jejího ústního prohlášení_**
 
   
 
