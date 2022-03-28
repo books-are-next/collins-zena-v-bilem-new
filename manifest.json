@@ -1,0 +1,608 @@
+{
+  "author": "Wilkie Collins",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "collins-zena-v-bilem-16b57a8",
+  "languagecode": "cs",
+  "modified": "2020-03-05T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Žena v bílém",
+  "revision": "16b57a8",
+  "generatedAt": {
+    "date": "Mon Mar 28 2022 10:25:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648463104100
+  },
+  "documents": [
+    {
+      "title": "Žena v bílém",
+      "file": "zena_v_bilem_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "zena_v_bilem_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I • Žena v bílém",
+      "file": "zena_v_bilem_005.html",
+      "words": 1,
+      "chars": 1,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "zena_v_bilem_002.html",
+      "next": "zena_v_bilem_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Příběh v podání prvního vypravěče, učitele kreslení Waltera Hartrighta • Žena v bílém",
+      "file": "zena_v_bilem_006.html",
+      "words": 18372,
+      "chars": 110077,
+      "ideas": 425,
+      "role": "chapter",
+      "order": 2,
+      "prev": "zena_v_bilem_005.html",
+      "next": "zena_v_bilem_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Příběh v podání prvního vypravěče, učitele kreslení Waltera Hartrighta",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12",
+              "id": "12",
+              "children": []
+            },
+            {
+              "index": 13,
+              "level": 2,
+              "name": "13",
+              "id": "13",
+              "children": []
+            },
+            {
+              "index": 14,
+              "level": 2,
+              "name": "14",
+              "id": "14",
+              "children": []
+            },
+            {
+              "index": 15,
+              "level": 2,
+              "name": "15",
+              "id": "15",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pokračování příběhu v podání Vincenta Gilmora, právního zástupce • Žena v bílém",
+      "file": "zena_v_bilem_007.html",
+      "words": 5646,
+      "chars": 34648,
+      "ideas": 124,
+      "role": "chapter",
+      "order": 3,
+      "prev": "zena_v_bilem_006.html",
+      "next": "zena_v_bilem_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pokračování příběhu v podání Vincenta Gilmora, právního zástupce",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "II • Žena v bílém",
+      "file": "zena_v_bilem_008.html",
+      "words": 1,
+      "chars": 2,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 4,
+      "prev": "zena_v_bilem_007.html",
+      "next": "zena_v_bilem_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pokračování příběhu v podání Marian Halcombové • Žena v bílém",
+      "file": "zena_v_bilem_009.html",
+      "words": 27524,
+      "chars": 161639,
+      "ideas": 765,
+      "role": "chapter",
+      "order": 5,
+      "prev": "zena_v_bilem_008.html",
+      "next": "zena_v_bilem_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pokračování příběhu v podání Marian Halcombové",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pokračování příběhu v podání pana Fredericka Fairlieho • Žena v bílém",
+      "file": "zena_v_bilem_010.html",
+      "words": 2987,
+      "chars": 18047,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 6,
+      "prev": "zena_v_bilem_009.html",
+      "next": "zena_v_bilem_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pokračování příběhu v podání pana Fredericka Fairlieho",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pokračování příběhu v podání Elízy Michelsonové, hospodyně sira Percivala Glyda v Blackwateru • Žena v bílém",
+      "file": "zena_v_bilem_011.html",
+      "words": 6680,
+      "chars": 40454,
+      "ideas": 129,
+      "role": "chapter",
+      "order": 7,
+      "prev": "zena_v_bilem_010.html",
+      "next": "zena_v_bilem_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pokračování příběhu v podání Elízy Michelsonové, hospodyně sira Percivala Glyda v Blackwateru",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pokračování příběhu v podání Hester Pinhornové, kuchařky ve službách hraběte Foska • Žena v bílém",
+      "file": "zena_v_bilem_012.html",
+      "words": 1071,
+      "chars": 6099,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 8,
+      "prev": "zena_v_bilem_011.html",
+      "next": "zena_v_bilem_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pokračování příběhu v podání Hester Pinhornové, kuchařky ve službách hraběte Foska",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III • Žena v bílém",
+      "file": "zena_v_bilem_013.html",
+      "words": 1,
+      "chars": 3,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 9,
+      "prev": "zena_v_bilem_012.html",
+      "next": "zena_v_bilem_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pokračování příběhu v podáníWaltera Hartrighta • Žena v bílém",
+      "file": "zena_v_bilem_014.html",
+      "words": 13108,
+      "chars": 78220,
+      "ideas": 275,
+      "role": "chapter",
+      "order": 10,
+      "prev": "zena_v_bilem_013.html",
+      "next": "zena_v_bilem_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pokračování příběhu v podáníWaltera Hartrighta",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11",
+              "id": "11",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pokračování příběhu v podánípaní Catherickové • Žena v bílém",
+      "file": "zena_v_bilem_015.html",
+      "words": 1639,
+      "chars": 9264,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 11,
+      "prev": "zena_v_bilem_014.html",
+      "next": "zena_v_bilem_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pokračování příběhu v podánípaní Catherickové",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dokončení příběhu v podáníWaltera Hartrighta • Žena v bílém",
+      "file": "zena_v_bilem_016.html",
+      "words": 9706,
+      "chars": 56997,
+      "ideas": 229,
+      "role": "chapter",
+      "order": 12,
+      "prev": "zena_v_bilem_015.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dokončení příběhu v podáníWaltera Hartrighta",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2",
+              "id": "2",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3",
+              "id": "3",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4",
+              "id": "4",
+              "children": []
+            },
+            {
+              "index": 5,
+              "level": 2,
+              "name": "5",
+              "id": "5",
+              "children": []
+            },
+            {
+              "index": 6,
+              "level": 2,
+              "name": "6",
+              "id": "6",
+              "children": []
+            },
+            {
+              "index": 7,
+              "level": 2,
+              "name": "7",
+              "id": "7",
+              "children": []
+            },
+            {
+              "index": 8,
+              "level": 2,
+              "name": "8",
+              "id": "8",
+              "children": []
+            },
+            {
+              "index": 9,
+              "level": 2,
+              "name": "9",
+              "id": "9",
+              "children": []
+            },
+            {
+              "index": 10,
+              "level": 2,
+              "name": "10",
+              "id": "10",
+              "children": []
+            },
+            {
+              "index": 11,
+              "level": 2,
+              "name": "11",
+              "id": "11",
+              "children": []
+            },
+            {
+              "index": 12,
+              "level": 2,
+              "name": "12",
+              "id": "12",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Žena v bílém",
+      "file": "colophon.html",
+      "words": 150,
+      "chars": 977,
+      "ideas": 24,
+      "role": "colophon",
+      "order": null,
+      "prev": "zena_v_bilem_016.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 86893,
+      "chars": 516465,
+      "ideas": 2063
+    },
+    "chapters": {
+      "words": 86736,
+      "chars": 515451,
+      "ideas": 2035
+    }
+  }
+}

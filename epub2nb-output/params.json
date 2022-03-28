@@ -1,14 +1,18 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Žena v bílém",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Wilkie Collins",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2020-03-05T00:00:00.000Z"
+      "modified": "2020-03-05T00:00:00.000Z",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "MLP-uroven2-kapitola  MLP-uroven1-cast ",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis",
       "h3": "",
@@ -21,8 +25,8 @@
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "em": "MLP-DENIK \nMLP-znak-kurziva-11b\nMLP-text--I---12-12\nMLP-text-uprostred--I-B\nMLP-titulka-prekladatel ",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nMLP-text-uprostred--I-B ",
       "remove": "",
       "ignore": ""
     },
@@ -30,17 +34,19 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "zena_v_bilem_001.md",
             "xhtml": "zena_v_bilem_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zena_v_bilem_002.md",
@@ -48,43 +54,47 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zena_v_bilem_003.md",
             "xhtml": "zena_v_bilem_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zena_v_bilem_004.md",
             "xhtml": "zena_v_bilem_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zena_v_bilem_005.md",
             "xhtml": "zena_v_bilem_005.xhtml",
             "id": 4,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zena_v_bilem_006.md",
@@ -95,7 +105,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Příběh v podání prvního vypravěče, učitele kreslení Waltera Hartrighta"
           },
           {
             "filename": "zena_v_bilem_007.md",
@@ -106,18 +118,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pokračování příběhu v podání Vincenta Gilmora, právního zástupce"
           },
           {
             "filename": "zena_v_bilem_008.md",
             "xhtml": "zena_v_bilem_008.xhtml",
             "id": 7,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zena_v_bilem_009.md",
@@ -128,7 +143,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pokračování příběhu v podání Marian Halcombové"
           },
           {
             "filename": "zena_v_bilem_010.md",
@@ -139,7 +156,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pokračování příběhu v podání pana Fredericka Fairlieho"
           },
           {
             "filename": "zena_v_bilem_011.md",
@@ -150,7 +169,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pokračování příběhu v podání Elízy Michelsonové, hospodyně sira Percivala Glyda v Blackwateru"
           },
           {
             "filename": "zena_v_bilem_012.md",
@@ -161,18 +182,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pokračování příběhu v podání Hester Pinhornové, kuchařky ve službách hraběte Foska"
           },
           {
             "filename": "zena_v_bilem_013.md",
             "xhtml": "zena_v_bilem_013.xhtml",
             "id": 12,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zena_v_bilem_014.md",
@@ -183,7 +207,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pokračování příběhu v podání Waltera Hartrighta"
           },
           {
             "filename": "zena_v_bilem_015.md",
@@ -194,7 +220,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Pokračování příběhu v podání paní Catherickové"
           },
           {
             "filename": "zena_v_bilem_016.md",
@@ -205,18 +233,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Dokončení příběhu v podání Waltera Hartrighta"
           },
           {
             "filename": "zena_v_bilem_017.md",
             "xhtml": "zena_v_bilem_017.xhtml",
             "id": 16,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -256,7 +287,7 @@
         "xhtml": "zena_v_bilem_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "I",
         "subtitleSuggest": "",
         "filename": "zena_v_bilem_005.md",
         "xhtml": "zena_v_bilem_005.xhtml"
@@ -274,7 +305,7 @@
         "xhtml": "zena_v_bilem_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II",
         "subtitleSuggest": "",
         "filename": "zena_v_bilem_008.md",
         "xhtml": "zena_v_bilem_008.xhtml"
@@ -304,7 +335,7 @@
         "xhtml": "zena_v_bilem_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "III",
         "subtitleSuggest": "",
         "filename": "zena_v_bilem_013.md",
         "xhtml": "zena_v_bilem_013.xhtml"
@@ -411,6 +442,6 @@
       "user": "books-are-next",
       "repo": "collins-zena-v-bilem-new"
     },
-    "generatedAt": 1648462350668
+    "generatedAt": 1648463042502
   }
 }

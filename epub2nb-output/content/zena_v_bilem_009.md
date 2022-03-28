@@ -3,9 +3,9 @@ title: "Pokračování příběhu v\_podání Marian Halcombové"
 contentType: prose
 ---
 
-ve výňatcích z jejího deníku
+**_ve výňatcích z jejího deníku_**
 
-Limmeridgeský zámek, 8. listopadu[^1]
+_Limmeridgeský zámek, 8. listopadu[^1]_
 
   
 
@@ -33,7 +33,7 @@ Zavrtěla hlavou. „Ne, alespoň ne pokud jde o věc, o níž právě přemý
 
 Měla jsem neblahé tušení, že vše skončí špatně, řekla jsem jí však, že učiním, jak si bude přát. Po večeři, při níž byla daleko klidnější a vyrovnanější než jindy, oznámila baronetovi, že si s ním přeje zítra po snídani promluvit a že ji i mne najde v jejím pokoji. Baronet při těchto slovech zbledl, a když jsem mu podala ruku, povšimla jsem si, že se mu trochu chvěje. Zítřejší ráno mělo rozhodnout o jeho budoucnosti a byl si toho zřejmě vědom.
 
-9\. listopadu
+_9\. listopadu_
 
   
 
@@ -93,7 +93,7 @@ Při těchto slovech přešla ke stolku, na němž měla své malířské náči
 
 Než jsem mohla pronést jediné slovo, obrátila se ke knihovně a vyňala z ní album, v němž byly kresby Waltera Hartrighta, a spěš­ně mi album vložila do ruky: „Ty mu budeš psát a on bude psát tobě. Dokud budu žít, piš mu vždy, bude-li se na mne ptát, že se mi daří dobře, a nikdy mu neříkej, že jsem nešťastná. Nezarmucuj ho, Marian, prosím, nezarmucuj ho. Zemřu-li dřív než on, dej mu, prosím, tuto malou knížku kreseb a řekni mu, řekni mu za mne, co jsem mu nikdy neřekla sama – že jsem ho milovala!“
 
-11\. listopadu
+_11\. listopadu_
 
   
 
@@ -107,7 +107,7 @@ Když jsem přišla k Lauře, věděla již od paní Veseyové, že jsem byla u
 
 Horlivě jsem jí to rozmlouvala, ale nic nemohlo změnit její rozhodnutí.
 
-12\. listopadu
+_12\. listopadu_
 
   
 
@@ -115,49 +115,49 @@ Při snídani mi sir Percival položil několik otázek a mně nezbývalo než 
 
 Nemám už dost trpělivosti psát dál. V tomto případě, právě tak jako v jiných, prosazoval sir Percival své záměry tak, že se mu vzdor všemu nedalo nic vytknout. Jeho přání byla pochopitelně nyní tatáž jako při jeho příchodu k nám. A Laura, která se smířila s nevyhnutelností oběti, setrvává v beznadějné trpnosti. Jsou právě tři hodiny odpoledne a sir Percival nás již opustil, aby připravil svůj dům v Hampshiru k přijetí nevěsty. Nestane-li se něco neočekávaného, co by mohlo svatbě zabránit, bude se sňatek konat přesně v čas, kdy si to baronet přál – před koncem roku!
 
-13\. listopadu
+_13\. listopadu_
 
   
 
 Strávila jsem bezesnou noc starostmi o Lauru. K ránu jsem dospěla k rozhodnutí, že musíme změnit prostředí, abych Lauru vyrvala z otupělosti. Napsala jsem proto Arnoldovým do Yorkshiru. Jsou to prostí, laskaví a pohostinní lidé a Laura je zná již od dětství. Když jsem dopis odeslala, oznámila jsem Lauře, co jsem učinila. Bylo by mě bývalo potěšilo, kdyby byla vznesla nějaké námitky. Ale kdežpak! Jediné, co řekla, bylo: „S tebou, Marian, půjdu kamkoli. Jistě máš pravdu, změna mi určitě poslouží.“
 
-14\. listopadu
+_14\. listopadu_
 
   
 
 Napsala jsem panu Gilmorovi a sdělila mu, že k onomu ohavnému sňatku již zřejmě dojde a že mám v úmyslu odjet s Laurou na krátký čas z Limmeridge. Nemohla jsem se však odhodlat vypsat v tomto dopise vše podrobně, bude na to času dost, až se bude blížit konec roku.
 
-15\. listopadu
+_15\. listopadu_
 
   
 
 Dostala jsem tři dopisy. První od Arnoldů, potěšených vyhlídkou na setkání s Laurou. Druhý od jednoho známého, jemuž jsem psala kvůli Walterovi. V dopise mi sděloval, že měl štěstí a mohl mé prosbě vyhovět. Třetí dopis mi psal nešťastný Walter sám a vřele mi děkoval, že jsem mu umožnila opustit domov, přátele a vlast. Z Liverpoolu odjíždí do Střední Ameriky výprava, která tam bude provádět vykopávky ve zříceninách starých měst. Kreslíř, který měl původně jet s výpravou, zřejmě ztratil v posledním okamžiku odvahu a Walter nastoupí na jeho místo. Byl přijat na dobu nejméně šesti měsíců ode dne přistání v Hondurasu, a budou-li vykopávky úspěšné a vystačí-li finanční prostředky, pak se tam výprava zdrží další rok. Jeho dopis končil slibem, že mi před odjezdem napíše ještě několik řádek na rozloučenou z paluby lodi.
 
-16\. listopadu
+_16\. listopadu_
 
   
 
 Kočár je přede dveřmi. Odjíždíme dnes s Laurou na návštěvu k Arnoldovým.
 
-23\. listopadu
+_23\. listopadu_
 
   
 
 Týdenní pobyt v novém prostředí a mezi zdejšími srdečnými lidmi Lauře hodně prospěl, i když ne tolik, jak jsem doufala. Rozhodla jsem se, že tu zůstaneme alespoň o týden déle. Je zbytečné vracet se do Limmeridge, dříve než to bude nezbytně třeba.
 
-24\. listopadu
+_24\. listopadu_
 
   
 
 Smutná zpráva v dnešní ranní poště. Výprava do Střední Ameriky odplula 21. t. m. Ztratily jsme věrného přítele, Walter Hartright opustil Anglii.
 
-25\. listopadu
+_25\. listopadu_
 
   
 
 Smutné zprávy včera, strašné zprávy dnes. Sir Percival Glyde napsal panu Fairliemu a pan Fairlie napsal Lauře a mně a povolal nás ihned zpět do Limmeridge. Co to může znamenat? Byl snad za naší nepřítomnosti stanoven den sňatku?
 
-27\. listopadu
+_27\. listopadu_
 
   
 
@@ -199,7 +199,7 @@ Slíbila jsem jí to. Nelze vypsat slovy, s jakou bolestí v srdci jsem jí to
 
 Odešla jsem od Laury, prudce jsem vrazila do pokoje pana Fairlieho, zavolala na něho, jak nejhlasitěji jsem mohla, že Laura souhlasí s dvaadvacátým, a vyběhla z pokoje, aniž jsem čekala na odpověď. Zabouchla jsem za sebou dveře a doufám, že jsem nervovou soustavu pana Fairlieho vyvedla pro zbytek dne z rovnováhy.
 
-28\. listopadu
+_28\. listopadu_
 
   
 
@@ -209,13 +209,13 @@ Myslím však, že mám přece jen pravdu. Narážky v jeho dopise naznačují,
 
 Dopis jsem přece jen spálila. A popel listu na rozloučenou – snad i posledního, který mi napsal – leží přede mnou v krbu. Je to snad smutné zakončení smutného příběhu?
 
-29\. listopadu
+_29\. listopadu_
 
   
 
 Přípravy na svatbu byly zahájeny. Švadlena přijela pro příkazy. Při projednávání otázky, na níž jindy každé ženě nejvíce záleží, je Laura zcela lhostejná a trpná. Všechno přenechala mně a švadleně.
 
-30\. listopadu
+_30\. listopadu_
 
   
 
@@ -223,25 +223,25 @@ Sir Percival nám píše každý den. V posledním dopise nám sdělil, že opr
 
 Nepochybovala jsem ani v nejmenším o tom, že jeho první návrh je daleko vhodnější. Rozhodně se nemůžeme vyhnout rozchodu s Laurou. Pojede-li Laura do ciziny, potrvá naše odloučení déle, než kdyby zůstala v Londýně, ale tato smutná skutečnost má na druhé straně tu výhodu, že Lauře pobyt v mírném podnebí nesmírně prospěje a že jí cestování kromě toho pomůže k dosažení duševní rovnováhy a smíří ji s novým způsobem života.
 
-1\. prosince
+_1\. prosince_
 
   
 
 Smutný, smutný den. Ani nemám odvahu podrobně jej popsat. Musela jsem dnes promluvit s Laurou o baronetově návrhu svatební cesty. V přesvědčení, že s ní pojedu kamkoli, těšila se jako dítě – a dítětem je v mnohém ohledu stále – že uvidí krásy Florencie, Říma a Neapole. Bylo pro mne nesmírně bolestné rozptýlit její falešné představy a postavit ji před holou pravdu – vysvětlit jí, že po svatbě nestrpí žádný muž soupeře – dokonce ani žádného ženského soupeře – v citech své ženy. Musela jsem ji varovat, že naše naděje na společný život pod její střechou závisí jedině na tom, nevyvolám-li baronetovu žárlivost a nedůvěru tím, že bych hned na počátku jejich manželství stála mezi ním a jeho ženou v postavení vyvoleného důvěrníka nejtajnějších myšlenek jeho ženy. A tak byl přijat první návrh. Odjedou do Itálie a po jejich návratu do Anglie budu u nich se souhlasem sira Percivala žít.
 
-16\. prosince
+_16\. prosince_
 
   
 
 O posledních dvou týdnech toho není mnoho co psát. Šaty jsou již téměř všechny hotovy a z Londýna nám sem již poslali nová zavazadla. Chudinka Laura se ode mne téměř nehne na krok a včera v noci, když jsme ani jedna nemohly spát, vlezla si ke mně do postele a smutně se mnou rozmlouvala. Svatba se bude konat v limmeridgeském kostele a nikdo z našich sousedů k ní, bohudík, nebude přizván. Jediným návštěvníkem bude náš starý přítel dobrý pan Arnold, který bude Lauřiným svědkem, protože strýcovi jeho chatrné zdraví nedovoluje, aby při nynějším nevlídném počasí vycházel z domu.
 
-17\. prosince
+_17\. prosince_
 
   
 
 Dnes přijel sir Percival a přivezl překrásné svatební dary.
 
-18\. prosince
+_18\. prosince_
 
   
 
@@ -255,7 +255,7 @@ Protože jsem se dnes dopoledne cítila unavena a sklíčena, nechala jsem u L
 
 „To je velmi smutné,“ řekl sir Percival s přízvukem zklamaného člověka, ale přesto se přitom tvářil jako někdo, komu se velmi ulevilo. „Nelze ani říci, s jakými nebezpečími se takové nešťastné stvoření může setkat. Ani nevíte, jak mě mrzí, že se mi nepodařilo dát ji opět pod dozor a péči, kterou tak nutně potřebuje!“ Nyní vypadal, jako by ho to opravdu mrzelo. Řekla jsem mu několik uklidňujících slov a pak jsme se spolu vrátili k zámku.
 
-19\. prosince
+_19\. prosince_
 
   
 
@@ -263,13 +263,13 @@ Dnes jsem si pohovořila s baronetem o Lauřině přání, abych po jejich ná
 
 Zmínka o hraběti a zjištění, že se hrabě i jeho žena setkají na pevnině s baronetem a Laurou, jsou prvním kladným znamením chystaného sňatku. Snad se tím konečně odstraní stará rodinná rozepře. Sir Percival a hrabě Fosco jsou staří přátelé, a jejich ženy se tedy budou muset stýkat jako přítelkyně, takže hraběnka Fosková se snad už nebude moci vyhýbat Lauře, jak to až dosud činila, ačkoli je její tetou. Byla to za mlada jedna z nejjízlivějších žen, s jakými jsem se kdy setkala – rozmarná, přemrštěná a nebetyčně ješitná. Jestliže se jejímu manželovi podařilo napravit jí hlavu, pak si zaslouží vděčnost všech členů rodiny, počínajíc mnou. Ostatně začínám být na toho hraběte zvědavá. Je to nejbližší baronetův přítel, a proto vyvolává můj největší zájem. Ani já, ani Laura jsme ho nikdy neviděly. Jediné, co o něm víme, je, že kdysi v Římě zachránil sira Percivala před oloupením a zavražděním.
 
-21\. prosince
+_21\. prosince_
 
   
 
 Myslím, že nikdo v celém domě neví, jak tento den uběhl! Panoval nevýslovný zmatek, jedna událost stíhala druhou. Všichni jsme byli uspěchaní, všichni jsme neklidně čekali na zítřek. Zejména sir Percival byl neobyčejně rozčilen, nevydržel na jednom místě ani pět minut, neustále vycházel z domu a zase se vracel. A nejhorší bylo, že v pozadí mých a Lauřiných myšlenek bylo neustálé vědomí nadcházejícího rozchodu. Poprvé po letech jsme se bály pohledět si do tváře a raději jsme celý večer ani spolu nepromluvily. Nemohu už dále. Ať mi již budoucnost chystá jakýkoli žal, na letošní jedenadvacátý prosinec budu vždy pohlížet jako na nejbezútěšnější a nejnešťastnější den svého života.
 
-22\. prosince
+_22\. prosince_
 
   
 
@@ -281,7 +281,7 @@ Myslím, že nikdo v celém domě neví, jak tento den uběhl! Panoval nevýslo
 
 3 hodiny. Odjeli! Pro pláč nevidím – nemohu psát dále!
 
-Blackwater, Hampshire, 11. června 1850
+_Blackwater, Hampshire, 11. června 1850_
 
   
 
@@ -297,7 +297,7 @@ A co mohu povědět ještě o Lauře, než zavřu stránky tohoto deníku? Vš
 
 Z dopisů nikde nezaznívá nějaký spodní tón stížnosti, z něhož bych mohla soudit, že je snad v manželství nešťastna. Ono zvláštní mlčení, které zachovává o povaze a chování svého manžela, projevilo se i v několika poznámkách, jimiž se v posledních dopisech zmiňovala o jeho příteli hraběti Foskovi. Z jakéhosi nevysvětleného důvodu změnil hrabě Fosco náhle plány a místo do Říma odcestoval do Vídně, odkud se vypravil až na jaře za Laurou a baronetem do Tyrol. Laura se v dopisech zmínila i o své tetě hraběnce Foskové a ujišťuje mne, že se podstatně změnila ve svůj prospěch, že je mnohem klidnější a rozvážnější, než byla za svobodna, a že ji proto stěží poznám, až se s ní setkám. Ale o hraběti Foskovi (který mě zajímá daleko více než jeho žena) Laura obezřetně mlčí. Napsala jen, že je pro ni hádankou a že vyčká, až ho uvidím sama a utvořím si o něm vlastní názor.
 
-12\. června
+_12\. června_
 
   
 
@@ -353,7 +353,7 @@ Jednoho dne navštívím paní Catherickovou ve Welminghamu a promluvím si s 
 
 Něco je slyšet! Neběží to někdo před dům? Ano, a už je slyšet dusot kopyt – hrčení kočárů – už jsou tu!
 
-15\. června
+_15\. června_
 
   
 
@@ -371,7 +371,7 @@ Myslím si, že hodlá s námi všemi po dobu zdejšího pobytu co nejlépe vyc
 
 Ptala jsem se sira Percivala na jeho minulost, ale baronet buď toho ví málo, nebo mi o něm nechce mnoho říci. S hrabětem se setkal před lety v Římě za okolností, o nichž jsem se tu již zmínila. Od té doby byli neustále spolu, v Londýně, Paříži či Vídni – ale ne v Itálii, kam se hrabě kupodivu již nikdy nevrátil. Stal se snad obětí politického pronásledování? Nevím, rozhodně se však snaží mít zprávy o každém krajanovi, který náhodou pobývá v Anglii. V den svého příjezdu se ptal, jak je daleko do nejbližšího města a zda náhodou nevíme o nějakých Italech, kteří by tam snad žili. Určitě udržuje písemný styk s lidmi žijícími v Evropě, protože jeho dopisy mají ty nejrozmanitější známky, a dnes ráno jsem viděla dopis s velkou, úředně vyhlížející pečetí. Je snad v písemném styku se svou vládou? To by pak ovšem bylo v rozporu s mou původní představou, že je politickým vyhnancem!
 
-16\. června
+_16\. června_
 
   
 
@@ -399,7 +399,7 @@ Byla to přímá odpověď na Lauřinu otázku, a přece jen nebyla za těchto 
 
 Pod schodištěm jsem se připojila k Lauře. Myslela na totéž co já a její slova byla téměř odrazem slov Foskových. I ona se mi svěřila, že se bojí, že se něco stalo.
 
-16\. června
+_16\. června_
 
   
 
@@ -453,7 +453,7 @@ Při procházce jsme spatřili hraběte Foska slunícího se na horkém červnov
 
 Zbytek dne uplynul klidně. Hrála jsem s hrabětem šachy. První dvě hry mě nechal ze zdvořilosti vyhrát. Když však zjistil, že jsem to poznala, omluvil se mi a během deseti minut mi dal šach mat. Sir Percival se po celý večer o advokátově návštěvě ani nezmínil. Ale buď tato událost, nebo něco jiného způsobily u něho podivnou změnu k lepšímu. Byl k nám všem zdvořilý a příjemný, jako býval v době svých námluv v Limmeridge, a ke své ženě byl tak překvapivě pozorný a laskavý, že i jinak lhostejná hraběnka Fosková na něho pohlížela s úžasem. Co to má znamenat? Myslím, že znám důvod, myslím, že ho i Laura může uhádnout, a jsem si jista, že hrabě Fosco ho ví. Povšimla jsem si, že se sir Percival během večera na něho nejednou podíval, zda schvaluje jeho chování.
 
-17\. června
+_17\. června_
 
   
 
@@ -697,7 +697,7 @@ Když jsem otevřela dveře do haly, octla jsem se tváří v tvář hraběti. 
 
 Nebo že by snad – – –! Ne, této představy se přece jen děsím! Nechtělo by se mi v ni věřit! Bojím se zítřku, tolik záleží na mé opatrnosti a na mém sebeovládání. Na dvě věci nesmím rozhodně zapomenout. Musím být neustále přátelská k hraběti a musím být ve střehu, dokud sem nepřijede posel s odpovědí na můj dopis.
 
-17\. června
+_17\. června_
 
   
 
@@ -809,7 +809,7 @@ Teď už připadala v úvahu jedině hospodyně.
 
 A tak, když jsem uvážila, co jsem sama viděla v knihovně a co jsem právě vyslechla od Lauřiny komorné, plynulo z toho jedno nevyhnutelné řešení. Postava, kterou jsme spatřily u jezera, nebyla ani hraběnka, ani hrabě, ani nikdo ze služebnictva. Kroky, které jsme za sebou slyšely, nebyly kroky nikoho z našeho domu. Tak čí tedy byly? Veškeré pátrání asi bude marné. Ani se nemohu rozhodnout, zda to byla mužská, nebo ženská postava. Myslím si však, že to byla žena.
 
-18\. června
+_18\. června_
 
   
 
@@ -817,7 +817,7 @@ Naše úvahy o tom, kdo asi byla ta záhadná postava u jezera a čí kroky j
 
 Právě odbila jedna hodina. Mám raději počkat na příjezd londýnského posla tady, anebo se mám tiše vytratit a čekat na něho u silnice? Mám-li se ztratit z domu nepozorována, je teď nejvyšší čas!
 
-Čtyři hodiny
+_Čtyři hodiny_
 
   
 
@@ -1030,7 +1030,7 @@ Zvon svolávající k večeři nás oddělil. Hned nato jsem slyšela, jak se b
 
 Večer se neudálo nic mimořádného. Jen jsem si povšimla určitých zvláštností v chování baroneta i hraběte, které ve mně vyvolaly obavu o osud Anny Catherickové i o to, co nám přinese zítřek. Znám již sira Percivala natolik dobře, abych věděla, že se tváří zdvořile a slušně jen tehdy, chová-li nejfalešnější a nejhorší úmysly. A ona dlouhá procházka s jeho přítelem přinesla takové zlepšení v jeho chování obzvláště k jeho ženě, že se mě zmocnilo nejhorší podezření. Vždyť dokonce oslovoval svou manželku křestním jménem, dotazoval se, zda by k nám nemohla přijít na návštěvu paní Veseyová, a po večeři předstíral, že na pohovce usnul. Zatím však zpod víček bedlivě sledoval, co s Laurou děláme. Nepochybovala jsem, že jeho cesta vedla do Welminghamu k paní Catherickové, ale zkušenost z dnešního večera svědčila o tom, že cestu nepodnikl nadarmo a že o Anně Catherickové ví. A zatím co se nám baronet předváděl v podobě, kterou jsme až příliš dobře znaly z dob jeho neblahých námluv v Limmeridge, předvedl se nám hrabě jako muž plný nejvřelejšího přátelství. Celý večer častoval svou manželku, Lauru i mne tolika nezvyklými poklonami a úsluhami, že mě tím úplně zmátl. Večer jsme se rozešli jako obvykle. K půlnoci se zdvihl studený vítr, který melancholicky vanul mezi stromy. Hrabě první z nás zpozoroval jeho chladné závany. Zastavil se, když mi zapaloval svíčku, a varovně pozvedl ruku: „Poslouchejte! Zítra dojde ke změně!“
 
-19\. června
+_19\. června_
 
   
 
@@ -1576,7 +1576,7 @@ Hrabě se smál zřejmě zcela nehlučně, neslyšela jsem ani hlásek.
 
 Tím skončil celý jejich rozhovor. Slyšela jsem hraběte, jak zavírá dveře knihovny, a sira Percivala, jak zavírá okenice. Celou dobu, co jsem seděla na střeše verandy, pršelo. Byla jsem celá ztuhlá, promočená a prokřehlá na kost. Bylo tři čtvrti na jednu, když jsem byla opět ve svém pokoji. Neuviděla a neuslyšela jsem nic, z čeho bych byla mohla soudit, že jsem byla zpozorována.
 
-20\. června
+_20\. června_
 
   
 
@@ -1584,13 +1584,13 @@ Je osm hodin ráno. Ještě jsem ani oka nezamhouřila. Počítám hodiny, kter�
 
 Odbilo teď devět hodin, nebo osm? Celá se třesu od hlavy k patě. Spím tu snad vsedě? Ani nevím, co jsem vlastně dělala. Proboha, snad neonemocním! Onemocnět v takové době! Je mi zima, už ani psát nemohu. A ty údery hodin mě bijí do hlavy, jako by mi tam někdo zatloukal hřebíky…
 
-Poznámka
+_Poznámka_
 
   
 
 Na tomto místě přestávají být zápisy v deníku čitelné. Dvě až tři další řádky obsahují jen části slov s kaňkami a škrábanci. Na příští stránce deníku je další zápis. Je psán odhodlaným a pravidelným mužským písmem a den zápisu je 21. červen. Obsahuje tyto řádky:
 
-Douška od upřímného přítele
+_Douška od upřímného přítele_
 
   
 
