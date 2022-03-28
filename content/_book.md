@@ -31,37 +31,54 @@ readingOrder:
 tocBase:
   - id: section-1
     children:
-      - link: zena_v_bilem_006.html
-        title: Příběh v podání prvního vypravěče, učitele kreslení Waltera Hartrighta
+      - link: zena_v_bilem_005.html
+        title: I
         hiddenTitle: false
-      - link: zena_v_bilem_007.html
-        title: Pokračování příběhu v podání Vincenta Gilmora, právního zástupce
+        children:
+          - link: zena_v_bilem_006.html
+            title: >-
+              Příběh v podání prvního vypravěče, učitele kreslení Waltera
+              Hartrighta
+            hiddenTitle: false
+          - link: zena_v_bilem_007.html
+            title: Pokračování příběhu v podání Vincenta Gilmora, právního zástupce
+            hiddenTitle: false
+        listType: bulleted
+      - link: zena_v_bilem_008.html
+        title: II
         hiddenTitle: false
-      - link: zena_v_bilem_009.html
-        title: Pokračování příběhu v podání Marian Halcombové
+        children:
+          - link: zena_v_bilem_009.html
+            title: Pokračování příběhu v podání Marian Halcombové
+            hiddenTitle: false
+          - link: zena_v_bilem_010.html
+            title: Pokračování příběhu v podání pana Fredericka Fairlieho
+            hiddenTitle: false
+          - link: zena_v_bilem_011.html
+            title: >-
+              Pokračování příběhu v podání Elízy Michelsonové, hospodyně sira
+              Percivala Glyda v Blackwateru
+            hiddenTitle: false
+          - link: zena_v_bilem_012.html
+            title: >-
+              Pokračování příběhu v podání Hester Pinhornové, kuchařky ve
+              službách hraběte Foska
+            hiddenTitle: false
+        listType: bulleted
+      - link: zena_v_bilem_013.html
+        title: III
         hiddenTitle: false
-      - link: zena_v_bilem_010.html
-        title: Pokračování příběhu v podání pana Fredericka Fairlieho
-        hiddenTitle: false
-      - link: zena_v_bilem_011.html
-        title: >-
-          Pokračování příběhu v podání Elízy Michelsonové, hospodyně sira
-          Percivala Glyda v Blackwateru
-        hiddenTitle: false
-      - link: zena_v_bilem_012.html
-        title: >-
-          Pokračování příběhu v podání Hester Pinhornové, kuchařky ve službách
-          hraběte Foska
-        hiddenTitle: false
-      - link: zena_v_bilem_014.html
-        title: Pokračování příběhu v podání Waltera Hartrighta
-        hiddenTitle: false
-      - link: zena_v_bilem_015.html
-        title: Pokračování příběhu v podání paní Catherickové
-        hiddenTitle: false
-      - link: zena_v_bilem_016.html
-        title: Dokončení příběhu v podání Waltera Hartrighta
-        hiddenTitle: false
+        children:
+          - link: zena_v_bilem_014.html
+            title: Pokračování příběhu v podání Waltera Hartrighta
+            hiddenTitle: false
+          - link: zena_v_bilem_015.html
+            title: Pokračování příběhu v podání paní Catherickové
+            hiddenTitle: false
+          - link: zena_v_bilem_016.html
+            title: Dokončení příběhu v podání Waltera Hartrighta
+            hiddenTitle: false
+        listType: bulleted
     isSection: true
     listType: plain
 static:
