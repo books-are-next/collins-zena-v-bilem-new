@@ -89,153 +89,159 @@
             "xhtml": "zena_v_bilem_005.xhtml",
             "id": 4,
             "role": "break",
-            "listType": "plain",
+            "listType": "bulleted",
             "inToc": true,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "zena_v_bilem_006.md",
-            "xhtml": "zena_v_bilem_006.xhtml",
-            "id": 5,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Příběh v podání prvního vypravěče, učitele kreslení Waltera Hartrighta"
-          },
-          {
-            "filename": "zena_v_bilem_007.md",
-            "xhtml": "zena_v_bilem_007.xhtml",
-            "id": 6,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Pokračování příběhu v podání Vincenta Gilmora, právního zástupce"
+            "children": [
+              {
+                "filename": "zena_v_bilem_006.md",
+                "xhtml": "zena_v_bilem_006.xhtml",
+                "id": 5,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Příběh v podání prvního vypravěče, učitele kreslení Waltera Hartrighta",
+                "children": []
+              },
+              {
+                "filename": "zena_v_bilem_007.md",
+                "xhtml": "zena_v_bilem_007.xhtml",
+                "id": 6,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Pokračování příběhu v podání Vincenta Gilmora, právního zástupce",
+                "children": []
+              }
+            ],
+            "title": "I"
           },
           {
             "filename": "zena_v_bilem_008.md",
             "xhtml": "zena_v_bilem_008.xhtml",
             "id": 7,
             "role": "break",
-            "listType": "plain",
+            "listType": "bulleted",
             "inToc": true,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "zena_v_bilem_009.md",
-            "xhtml": "zena_v_bilem_009.xhtml",
-            "id": 8,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Pokračování příběhu v podání Marian Halcombové"
-          },
-          {
-            "filename": "zena_v_bilem_010.md",
-            "xhtml": "zena_v_bilem_010.xhtml",
-            "id": 9,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Pokračování příběhu v podání pana Fredericka Fairlieho"
-          },
-          {
-            "filename": "zena_v_bilem_011.md",
-            "xhtml": "zena_v_bilem_011.xhtml",
-            "id": 10,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Pokračování příběhu v podání Elízy Michelsonové, hospodyně sira Percivala Glyda v Blackwateru"
-          },
-          {
-            "filename": "zena_v_bilem_012.md",
-            "xhtml": "zena_v_bilem_012.xhtml",
-            "id": 11,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Pokračování příběhu v podání Hester Pinhornové, kuchařky ve službách hraběte Foska"
+            "children": [
+              {
+                "filename": "zena_v_bilem_009.md",
+                "xhtml": "zena_v_bilem_009.xhtml",
+                "id": 8,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Pokračování příběhu v podání Marian Halcombové",
+                "children": []
+              },
+              {
+                "filename": "zena_v_bilem_010.md",
+                "xhtml": "zena_v_bilem_010.xhtml",
+                "id": 9,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Pokračování příběhu v podání pana Fredericka Fairlieho",
+                "children": []
+              },
+              {
+                "filename": "zena_v_bilem_011.md",
+                "xhtml": "zena_v_bilem_011.xhtml",
+                "id": 10,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Pokračování příběhu v podání Elízy Michelsonové, hospodyně sira Percivala Glyda v Blackwateru",
+                "children": []
+              },
+              {
+                "filename": "zena_v_bilem_012.md",
+                "xhtml": "zena_v_bilem_012.xhtml",
+                "id": 11,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Pokračování příběhu v podání Hester Pinhornové, kuchařky ve službách hraběte Foska",
+                "children": []
+              }
+            ],
+            "title": "II"
           },
           {
             "filename": "zena_v_bilem_013.md",
             "xhtml": "zena_v_bilem_013.xhtml",
             "id": 12,
             "role": "break",
-            "listType": "plain",
+            "listType": "bulleted",
             "inToc": true,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "zena_v_bilem_014.md",
-            "xhtml": "zena_v_bilem_014.xhtml",
-            "id": 13,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Pokračování příběhu v podání Waltera Hartrighta"
-          },
-          {
-            "filename": "zena_v_bilem_015.md",
-            "xhtml": "zena_v_bilem_015.xhtml",
-            "id": 14,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Pokračování příběhu v podání paní Catherickové"
-          },
-          {
-            "filename": "zena_v_bilem_016.md",
-            "xhtml": "zena_v_bilem_016.xhtml",
-            "id": 15,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hungry": false,
-            "devoured": false,
-            "hiddenTitle": false,
-            "children": [],
-            "title": "Dokončení příběhu v podání Waltera Hartrighta"
+            "children": [
+              {
+                "filename": "zena_v_bilem_014.md",
+                "xhtml": "zena_v_bilem_014.xhtml",
+                "id": 13,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Pokračování příběhu v podání Waltera Hartrighta",
+                "children": []
+              },
+              {
+                "filename": "zena_v_bilem_015.md",
+                "xhtml": "zena_v_bilem_015.xhtml",
+                "id": 14,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Pokračování příběhu v podání paní Catherickové",
+                "children": []
+              },
+              {
+                "filename": "zena_v_bilem_016.md",
+                "xhtml": "zena_v_bilem_016.xhtml",
+                "id": 15,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "title": "Dokončení příběhu v podání Waltera Hartrighta",
+                "children": []
+              }
+            ],
+            "title": "III"
           },
           {
             "filename": "zena_v_bilem_017.md",
@@ -442,6 +448,6 @@
       "user": "books-are-next",
       "repo": "collins-zena-v-bilem-new"
     },
-    "generatedAt": 1648463042502
+    "generatedAt": 1648463442168
   }
 }

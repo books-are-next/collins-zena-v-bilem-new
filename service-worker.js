@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-16b57a8';
+const CACHE = 'cache-a72ed17';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./index.html","./manifest.json","./favicon.png","./zena_v_bilem_002.html","./zena_v_bilem_005.html","./zena_v_bilem_006.html","./zena_v_bilem_007.html","./zena_v_bilem_008.html","./zena_v_bilem_009.html","./zena_v_bilem_010.html","./zena_v_bilem_011.html","./zena_v_bilem_012.html","./zena_v_bilem_013.html","./zena_v_bilem_014.html","./zena_v_bilem_015.html","./zena_v_bilem_016.html","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_zena_v_bilem_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./zena_v_bilem_002.html","./zena_v_bilem_005.html","./zena_v_bilem_006.html","./zena_v_bilem_007.html","./zena_v_bilem_008.html","./zena_v_bilem_009.html","./zena_v_bilem_010.html","./zena_v_bilem_011.html","./zena_v_bilem_012.html","./zena_v_bilem_013.html","./zena_v_bilem_014.html","./zena_v_bilem_015.html","./zena_v_bilem_016.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_zena_v_bilem_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {
