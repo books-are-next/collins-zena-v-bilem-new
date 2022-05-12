@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - zena_v_bilem_002.html
+  - promo.html
   - zena_v_bilem_005.html
   - zena_v_bilem_006.html
   - zena_v_bilem_007.html
