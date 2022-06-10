@@ -3,11 +3,15 @@ title: "Dokončení příběhu v\_podáníWaltera Hartrighta"
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Když jsem dočetl vyprávění paní Catherickové, pečlivě jsem dopis zapečetil a uložil. Příštího dne ráno jsem zašel na poštovní úřad. Marianin dopis tam byl, byl však nezvykle lehký. S obavami jsem otevřel obálku: obsahovala jen malý lístek s těmito chvatně načrtnutými větami:
 
-  
+</section>
+
+<section>
 
 Vraťte se pokud možno ihned. Musely jsme se přestěhovat. Naše adresa je Gower’s Walk číslo 5 ve Fulhamu. Čekáme na Vás. Nemějte starosti, jsme obě zdrávy a v bezpečí. Přijeďte brzy.
 
@@ -460,3 +464,5 @@ Byl ještě čas stihnout ranní vlak. Téhož dne odpoledne jsem byl v Limmeri
 „Proč jste se sem tak náhle rozjely?“ vyhrkl jsem. „Ví vůbec pan Fairlie…!“
 
 Marian mě přerušila uprostřed věty. Pan Fairlie totiž náhle zemřel a pan Kyrle ihned uvědomil Lauru o jeho smrti a vyzval obě sestry, aby se bez průtahů rozjely do Limmeridge. Teprve teď jsem si uvědomil velkou změnu, k níž v našem životě došlo. Po dlouhých strastiplných měsících jsme se vrátili, Marian, Laura i já, tam, kde jsme se poprvé setkali, a před námi se rozprostírala budoucnost ozářená sluncem klidu a míru.
+
+</section>

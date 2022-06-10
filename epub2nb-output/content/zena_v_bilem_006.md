@@ -3,6 +3,8 @@ title: "Příběh v\_podání prvního vypravěče, učitele kreslení Waltera H
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Náš příběh líčí, jakou moc má trpělivost ženy a čeho může dosáhnout odhodlanost muže.
@@ -849,6 +851,10 @@ Při loučení jsem nedokázal vyslovit všechno, co jsem měl na jazyku, vše s
 
 Tu se jí zalily oči slzami a odpověděla zlomeným hlasem: „Slibuji vám to, slibuji vám to z celého srdce. A teď, prosím, teď odejděte.“ Pohlédl jsem na ni ještě naposled, jak klesla do křesla a hlavu opřela do dlaní, a opustil jsem pokoj. Dveře se zavřely, mezi námi se rozevřela hluboká propast rozloučení a obraz Laury Fairlieové již byl vzpomínkou minulosti.
 
-  
+</section>
+
+<section>
 
 Zde končí vyprávění Waltera Hartrighta.
+
+</section>

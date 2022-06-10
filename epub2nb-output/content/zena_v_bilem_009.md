@@ -3,6 +3,8 @@ title: "Pokračování příběhu v\_podání Marian Halcombové"
 contentType: prose
 ---
 
+<section>
+
 **_ve výňatcích z jejího deníku_**
 
 _Limmeridgeský zámek, 8. listopadu[^1]_
@@ -775,7 +777,9 @@ Vyšla jsem z domu, abych počkala na londýnského posla na silnici. Na schodi
 
 Muž smekl klobouk, ihned vystoupil z kočáru a dal mi dopis. Neprodleně jsem ho otevřela a přečetla tyto řádky:
 
-  
+</section>
+
+<section>
 
 Vážená slečno,
 
@@ -966,7 +970,9 @@ Na delší procházku! Pokud vím, nikdy nic takového nepodnikli. Sir Percival 
 
 Zvon svolávající k večeři nás oddělil. Hned nato jsem slyšela, jak se baronet s hrabětem vracejí z procházky. Zaslechla jsem pána domu, jak se osopil na služebnictvo, že se o pět minut zpozdilo, a jeho hosta, jak jako obvykle zasahuje v zájmu klidu, trpělivosti a dobré shody.
 
-  
+</section>
+
+<section>
 
 Večer se neudálo nic mimořádného. Jen jsem si povšimla určitých zvláštností v chování baroneta i hraběte, které ve mně vyvolaly obavu o osud Anny Catherickové i o to, co nám přinese zítřek. Znám již sira Percivala natolik dobře, abych věděla, že se tváří zdvořile a slušně jen tehdy, chová-li nejfalešnější a nejhorší úmysly. A ona dlouhá procházka s jeho přítelem přinesla takové zlepšení v jeho chování obzvláště k jeho ženě, že se mě zmocnilo nejhorší podezření. Vždyť dokonce oslovoval svou manželku křestním jménem, dotazoval se, zda by k nám nemohla přijít na návštěvu paní Veseyová, a po večeři předstíral, že na pohovce usnul. Zatím však zpod víček bedlivě sledoval, co s Laurou děláme. Nepochybovala jsem, že jeho cesta vedla do Welminghamu k paní Catherickové, ale zkušenost z dnešního večera svědčila o tom, že cestu nepodnikl nadarmo a že o Anně Catherickové ví. A zatím co se nám baronet předváděl v podobě, kterou jsme až příliš dobře znaly z dob jeho neblahých námluv v Limmeridge, předvedl se nám hrabě jako muž plný nejvřelejšího přátelství. Celý večer častoval svou manželku, Lauru i mne tolika nezvyklými poklonami a úsluhami, že mě tím úplně zmátl. Večer jsme se rozešli jako obvykle. K půlnoci se zdvihl studený vítr, který melancholicky vanul mezi stromy. Hrabě první z nás zpozoroval jeho chladné závany. Zastavil se, když mi zapaloval svíčku, a varovně pozvedl ruku: „Poslouchejte! Zítra dojde ke změně!“
 
@@ -1520,19 +1526,27 @@ Je osm hodin ráno. Ještě jsem ani oka nezamhouřila. Počítám hodiny, kter�
 
 Odbilo teď devět hodin, nebo osm? Celá se třesu od hlavy k patě. Spím tu snad vsedě? Ani nevím, co jsem vlastně dělala. Proboha, snad neonemocním! Onemocnět v takové době! Je mi zima, už ani psát nemohu. A ty údery hodin mě bijí do hlavy, jako by mi tam někdo zatloukal hřebíky…
 
-  
+</section>
+
+<section>
 
 _Poznámka_
 
-  
+</section>
+
+<section>
 
 Na tomto místě přestávají být zápisy v deníku čitelné. Dvě až tři další řádky obsahují jen části slov s kaňkami a škrábanci. Na příští stránce deníku je další zápis. Je psán odhodlaným a pravidelným mužským písmem a den zápisu je 21. červen. Obsahuje tyto řádky:
 
-  
+</section>
+
+<section>
 
 _Douška od upřímného přítele_
 
-  
+</section>
+
+<section>
 
 Nemoc naší vynikající slečny Halcombové mi poskytla možnost nečekaného duševního požitku. Mám na mysli pročtení tohoto zajímavého deníku. Je tu několik set popsaných stránek. Mohu klidně položit ruku na srdce a prohlásit, že mě každá stránka okouzlila, potěšila a pobavila. Jsou skutečně podivuhodné, všechny tyto stránky. Takt, který zde nalézám, diskrétnost, vzácná odvaha, skvělá paměť, přesné postřehy o povaze jednotlivých lidí, lehkost stylu, rozkošné výbuchy ženského citu – to vše nesmírně zvýšilo můj obdiv k této skvělé ženě. Hluboce se podivuji odvaze, s níž nás přelstila tak, že se jí podařilo vyslechnout onen tajný rozhovor mezi mnou a Percivalem, jakož i téměř doslovnému zachycení naší výměny názorů. Tyto mé city mě přinutily k tomu, abych onomu nepřístupnému lékaři, který ji ošetřuje, nabídl své rozsáhlé farmakologické znalosti i své daleko podrobnější vědomosti o lékařské vědě. Až dosud však mou pomoc odmítal. Bídák!
 
@@ -1541,3 +1555,5 @@ Doufám plně, že se slečna Halcombová uzdraví. Lituji, že každý její pl
 Fosco
 
 [^1]: Zde nebo na jiném místě jsou vynechány ty části deníku, které neobsahují zmínku o slečně Fairlieové nebo o jiných osobách spjatých s tímto příběhem.
+
+</section>

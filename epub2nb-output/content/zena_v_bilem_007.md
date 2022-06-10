@@ -3,6 +3,8 @@ title: Pokračování příběhu v podání Vincenta Gilmora, právního zástup
 contentType: prose
 ---
 
+<section>
+
 ## 1
 
 Píšu tyto řádky na žádost svého přítele Waltera Hartrighta, abych v nich vylíčil události, které se vážným způsobem dotkly zájmů slečny Fairlieové. Došlo k nim až po odjezdu pana Hartrighta z limme­ridgeského zámku. Má účast jako vypravěče této části příběhu je důsledkem toho, že jsem byl v době pobytu sira Percivala Glyda rovněž přítomen v Limmeridge a že jsem osobně přispěl k vyřešení jedné z nejdůležitějších událostí, které se tehdy odehrály.
@@ -81,7 +83,9 @@ Den nato, v úterý, se sir Percival ráno vypravil do Toddova dvora, ale jak j
 
 Středeční poštou došla odpověď paní Catherickové. Zněla takto:
 
-  
+</section>
+
+<section>
 
 Vážená slečno, potvrzuji příjem Vašeho dopisu, v němž se tážete, zda má dcera Anna byla dána pod lékařský dozor s mým vědomím a souhlasem a zda si sir Percival Glyde za účast, která mu v celé záležitosti připadá, zasluhuje mou vděčnost. Přijměte laskavě mou kladnou odpověď na obě tyto otázky.
 
@@ -249,6 +253,10 @@ V úterý jsem zaslal panu Merrimanovi změněnou svatební smlou­vu, která v
 
 Můj úkol je tím splněn. Má osobní účast na událostech tohoto rodinného příběhu nesahá za bod, jehož jsem právě dosáhl. Jiná pera než mé popíší podivné okolnosti, které poté nastaly. S vážnou a smutnou myslí uzavírám tuto stručnou zprávu.
 
-  
+</section>
+
+<section>
 
 Zde končí vyprávění pana Gilmora.
+
+</section>

@@ -3,9 +3,13 @@ title: "Pokračování příběhu v\_podání Hester Pinhornové, kuchařky ve s
 contentType: prose
 ---
 
+<section>
+
 **_Sepsáno podle jejího ústního prohlášení_**
 
-  
+</section>
+
+<section>
 
 Nikdy jsem se bohužel nenaučila číst ani psát. Celý život jsem tvrdě pracovala a řádně se chovala. Proto vím, že je to hřích říkat nepravdu, a proto řeknu všechno tak, jak to vím, a prosím toho pána, který si má slova poznamenává, aby mé chyby opravil a prominul mi, že jsem nevzdělaná žena.
 
@@ -21,7 +25,9 @@ Jak pán přijal tuto zprávu, nevím, protože jsem u toho nebyla. Když jsem 
 
 Závěrem musím prohlásit v odpověď na otázky, které mi byly položeny:
 
-  
+</section>
+
+<section>
 
 1\. že ani já, ani služebná jsme neviděly, že by náš pán byl lady Glydové podával nějaký lék,
 
@@ -29,6 +35,10 @@ Závěrem musím prohlásit v odpověď na otázky, které mi byly položeny:
 
 3\. že nevím, co způsobilo onu náhlou hrůzu, která se podle slov mé paní zmocnila lady Glydové, když poprvé vstoupila do našeho domu.
 
-  
+</section>
+
+<section>
 
 Toto prohlášení mi bylo přečteno. Nemám, co bych k němu dodala nebo co bych z něho škrtla. Přísahám, že vše, co v něm je, je čistá pravda.
+
+</section>
