@@ -3,6 +3,8 @@ title: "Pokračování příběhu v\_podánípaní Catherickové"
 contentType: prose
 ---
 
+<section>
+
 Vážený pane,
 
 přece jen jste se ke mně nevrátil, jak jste slíbil. Nevadí – vím už všechno, a proto Vám také píšu. Všiml jste si něčeho zvláštního v mé tváři, když jste ode mne odcházel? Uvažovala jsem, zda se již konečně blíží den jeho pádu a zda Vy jste nástrojem tohoto pádu. Byl jste to tedy přece Vy. Slyšela jsem ovšem i o Vaší slabosti: snažil jste se mu zachránit život! Kdyby se Vám to podařilo, byla bych Vás považovala za svého nepřítele. Nepodařilo se Vám to, a proto Vás považuji za svého přítele. Děkuji Vám. Muži, který toto učinil, něco dlužím. Mohu teď ukojit Vaši zvědavost, a tím splatím svůj dluh.
@@ -28,3 +30,5 @@ Přistoupil na můj požadavek a já jsem nemohla nepřiznat, že toto řešen�
 Doufám, že jsem uspokojila Vaši zvědavost. Alespoň jsem se o to ze všech sil snažila. Už není, co bych Vám mohla o sobě nebo o své dceři sdělit, kromě jednoho. Při našem rozhovoru jste vyjádřil pochybnosti o otcovství mého manžela. Bylo to od Vás velmi neslušné a nezdvořilé a ujišťuji Vás, že se proti takovým narážkám co nejpřísněji ohražuji.
 
 A závěrem bych Vás chtěla upozornit, že je zcela zbytečné, abyste se někdy na tento dopis odvolával. Nikdy nepřiznám, že jsem jej psala! I když se důkaz jistého činu proměnil v popel, přece jen je obezřetnost stále ještě na místě. Proto také nejsou tyto řádky podepsány, proto je písmo změněno a proto mám v úmyslu odevzdat dopis sama za tmy, kdy mě nikdo nepozná a nikdo mě nebude moci sledovat při návratu do mého domu.
+
+</section>

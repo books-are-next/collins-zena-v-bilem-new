@@ -3,6 +3,8 @@ title: "Pokračování příběhu v\_podání pana Fredericka Fairlieho"
 contentType: prose
 ---
 
+<section>
+
 Je velkým neštěstím mého života, že mě nikdo nechce nechat na pokoji. Proč mě musí všichni lidé něčím obtěžovat? Nikdo mi na tuto otázku neodpoví a nikdo mě nenechá na pokoji. Všichni příbuzní, přátelé, a dokonce i cizí lidé se spolčují, aby mě obtěžovali, čeho jsem se dopustil? Čím jsem se provinil? Padesátkrát denně se ptám sama sebe, svého sluhy Louise – čeho jsem se dopustil? Nikdo z nás to neví. Prapodivné!
 
 Poslední mrzutost, která na mne dolehla, je výzva, abych napsal toto vyprávění. Je člověk s tak pocuchanými nervy vůbec schopen napsat takové vyprávění? Když jsem podal tuto nesmírně rozumnou námitku, bylo mi řečeno, že vím o určitých velmi závažných událostech, které se přihodily v souvislosti s mou neteří, a že jsem proto vhodnou osobou k jejich vylíčení. Bylo mi dokonce vyhrožováno, že mě postihnou, nesplním-li řádně tuto výzvu, důsledky, na něž se obávám jen pomyslit. Opravdu není třeba mi vyhrožovat! Člověk s tak porouchaným zdravím a takovými rodinnými starostmi není ani schopen odporu. Pokusím se upamatovat, na co jen budu moci (a přitom protestuji), a zapsat, co jen budu moci (a rovněž protestuji), a na co se neupamatuji nebo co nebudu moci napsat, na to se bude muset upamatovat Louis a zapsat to za mne. Prý si mám pamatovat i jednotlivé dny! Proboha! Nikdy v životě jsem si něco takového nepamatoval, jak bych s tím mohl začít teď?
@@ -116,3 +118,5 @@ Ale hrabě pronesl další řeč, byl prostě nevyčerpatelný. Zavřel jsem oč
 Zazvonil jsem ihned na Louise a odebral se do koupelny. Po očist­né lázni jsem se oddal své obvyklé siestě. Když jsem z ní procitl, má první otázka se týkala hraběte. Už jsme se ho opravdu zbavili? Ano – odjel odpoledním vlakem.
 
 Doufám, že víc se toho ode mne neočekává! Domnívám se, že jsem dospěl k mezi, která mi byla vytyčena. Trapné události, ke kterým došlo později, neudály se bohudík v mé přítomnosti. Pochopitelně předpokládám, že mi za tyto události nikdo nebude klást vinu. Učinil jsem vše, co bylo v mých silách. Nejsem odpovědný za politováníhodné neštěstí, jež se nedalo předvídat. Zdrtilo mě, trpěl jsem jím, jako nikdo jiný nemohl trpět. Chci jen zdůraznit, abych byl k sobě spravedlivý, že to nebyla má chyba a že jsem zcela vyčerpán a zdrcen. Je snad třeba, abych toho řekl více?
+
+</section>
