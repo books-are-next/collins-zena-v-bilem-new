@@ -5,8 +5,6 @@ contentType: prose
 
 ## 1
 
-  
-
 Náš příběh líčí, jakou moc má trpělivost ženy a čeho může dosáhnout odhodlanost muže.
 
 Kdybychom se mohli spolehnout, že v naší anglické společnosti prozkoumá soukolí práva každičký podezřelý případ a postihne každou nespravedlnost, pak by se o událostech, jež budou vylíčeny na dalších stránkách, byla veřejnost mohla dozvědět z průběhu soudního řízení. Ale v některých případech bývá zákon předem zaujatým služebníkem plné tobolky, a proto tento příběh spatří světlo dnes poprvé zde v této knize. Co měl kdysi slyšet soudce, s tím se seznámí pozorný čtenář. Ani jedna významná okolnost, od počátku až po konečné odhalení, nebude spočívat na dohadech. Pokud bude pisatel těchto úvodních řádků (jménem Walter Hartright) úžeji spjat s událostmi, jež tu budou líčeny, pak o nich bude hovořit vlastními ústy. Tam, kde nebude moci hovořit z vlastní zkušenosti, vzdá se úlohy vypravěče a v jeho poslání budou pokračovat očití svědci.
@@ -17,8 +15,6 @@ Jako prvního si vyslechněme osmadvacetiletého učitele kreslení Waltera Hart
 
 ## 2
 
-  
-
 Byl poslední červencový den. Dlouhé, horké léto se chýlilo ke konci. Postonával jsem, neměl jsem dobrou náladu, a abych byl upřímný, neměl jsem ani peníze. Proti očekávání mi mé hodiny kreslení nevynesly tolik jako obvykle a zdálo se, že podzim budu muset trávit z úsporných důvodů střídavě v domku své matky v Hampsteadu a ve svém londýnském bytě. Protože byl právě jeden z oněch dvou dnů v týdnu, kdy jsem chodíval navštěvovat matku a sestru, vydal jsem se do Hampsteadu.
 
 Sotva jsem zazvonil u matčina domku, otevřely se prudce dveře a místo služebné se objevil můj dobrý známý profesor Pesca, Ital, jehož jsem kdysi zachránil před utonutím a který se stal od té doby mým oddaným přítelem. Jeho minulost jsem celkem neznal, věděl jsem jen, že kdysi přednášel na padovské univerzitě, že později z politických důvodů (jejichž podstatu mi kategoricky odmítl sdělit) opustil Itálii a že již řadu let žije v Londýně jako učitel řečí. Pesca mě vtáhl do pokoje a před matkou a sestrou mi sdělil, že pan Frederick Fairlie, zámecký pán v Limmeridge v Cumberlandu, mě hodlá přijmout na čtyři měsíce jako učitele kreslení dvou mladých dam. Druhým mým úkolem pak bude uspořádání jeho drahocenné sbírky kreseb, která je prý ve velmi zanedbaném stavu. Slibovaný plat byl velmi slušný a bylo výhodné, že jsem měl bydlet i jíst s ostatními členy rodiny přímo v zámku.
@@ -26,8 +22,6 @@ Sotva jsem zazvonil u matčina domku, otevřely se prudce dveře a místo slu�
 Cosi mi sice našeptávalo, abych toto místo nepřijímal, hledal jsem dokonce i vytáčky, jak se mu vyhnout, ale nakonec jsem pochopitelně tuto výhodnou nabídku přijal. Poslal jsem proto zástupci pana Fairlieho své doporučující listiny, doufaje ještě, že mě třebas odmítne, ale po třech dnech došla výzva, abych se ihned vydal do Cumberlandu. Vykonal jsem proto poslední přípravy, povečeřel s Peskou a po večeři odešel do Hampsteadu, abych se rozloučil s matkou a sestrou.
 
 ## 3
-
-  
 
 Po celý den panovalo tíživé dusno; také noc byla dusná. Matka a sestra se tak dlouho se mnou loučily a tolikrát mě prosily, abych počkal dalších pět minut, že když za mnou služebná zamkla dvířka zahrádky, byla již téměř půlnoc. Šel jsem sám po silnici k Londýnu, zabrán hluboko do myšlenek o svém budoucím životě, o limmeridgeském zámku, o panu Fairliem, o oněch dvou slečnách, jež budu vyučovat kreslení, když tu náhle mi ztuhla každá kapka krve v těle – někdo mi zezadu znenadání položil lehce ruku na rameno.
 
@@ -70,8 +64,6 @@ Co jsem mohl učinit? Stála tu cizí bezmocná žena a jen na mně záleželo,
 Jediné slůvko! Ono malé, obyčejné slovo, jež každou denní hodinu splývá ze všech rtů. Dnes, když o tom píšu, celý se chvěji.
 
 ## 4
-
-  
 
 Vykročili jsme směrem k Londýnu, já a ona žena, jejíž jméno, povaha, dosavadní život, životní cíl, a dokonce sama přítomnost po mém boku byla pro mne naprostou záhadou. Bylo to jako sen. Byl jsem příliš zmaten, a tak jsem se po několik minut nezmohl na jediné slovo. Opět to byl její hlas, který prvý přerušil ticho: „Chtěla bych se vás ještě na něco zeptat,“ řekla náhle. „Znáte mnoho lidí v Londýně?“
 
@@ -155,8 +147,6 @@ Strážník pohlédl na lístek, který mu onen muž podal. „Proč ji máme za
 
 ## 5
 
-  
-
 Utekla z mého ústavu pro choromyslné!
 
 Lhal bych, kdybych nepřiznal, že na mne tato slova zapůsobila jako blesk. Z některých podivných otázek, které mi ona podivná žena položila, jsem jen usoudil, že buď byla od přírody roztěkaná a rozháraná, anebo že nějaký náhlý úlek porušil rovnováhu její mysli. Nikdy mi však nepřišla na mysl představa naprostého šílenství, jakou obvykle spojujeme s pojmem ústavu pro choromyslné. Nic z její řeči nebo jejího chování tomu nenasvědčovalo a slova, jež onen neznámý pronesl k strážníkovi, mě ani nyní nepřesvědčila. Co jsem vlastně učinil? Pomohl jsem k útěku oběti nějakého nespravedlivého uvěznění, nebo jsem přispěl k tomu, že se po Londýně svobodně pohybuje nešťastná bytost, jejíž činy mají podléhat dozoru? V rozrušeném stavu, v němž jsem byl, jsem nemohl na spánek ani pomyslit. Po celý zbytek noci jsem přemýšlel o oné nešťastné bytosti, o tom, kde asi vystoupila z drožky, co se s ní stalo, zda ji muži v bryčce vystopovali a zda se jí opět zmocnili. Bylo pro mne vysvobozením, když nadešla hodina mého rozloučení s Londýnem, s londýnskými žáky a přáteli, a když jsem se mohl vydat na cestu za novými zájmy a novým životem.
@@ -164,8 +154,6 @@ Lhal bych, kdybych nepřiznal, že na mne tato slova zapůsobila jako blesk. Z 
 Jel jsem vlakem do Carlisle, tam jsem měl přestoupit na lokálku jedoucí směrem k pobřeží. Mezi Lancasterem a Carlisle se však porouchala lokomotiva, takže jsem zmeškal spojení a musel několik hodin čekat, a když jsem konečně vystoupil na stanici, která byla nejblíže limmeridgeskému zámku, bylo již po desáté hodině večer. Kočí, který na mě čekal, byl mým pozdním příjezdem zřejmě rozladěn. Byl ve stavu oné vysoce uctivé nevrlosti, tak typické pro anglické služebnictvo. Jeli jsme pomalu naprostou tmou. Asi po jedenapůlhodinové jízdě jsem zdáli uslyšel hučet moře. Pak jsme vjeli na hladkou cestu, projeli napřed jednou a pak druhou branou a zastavili před zámkem. Přivítal mě důstojně se tvářící sluha, který mi sdělil, že se panstvo již odebralo na lože, a potom mě uvedl do velkého pokoje, kde jsem měl přichystánu večeři. Byl jsem příliš znaven a ani jsem neměl chuť hodně jíst a pít, a to tím spíše, že mě onen důstojně se tvářící sluha obsluhoval tak upjatě, jako by se k večeři byla dostavila celá společnost, a nikoli pouze jediný člověk. Za čtvrt hodiny jsem se dal zavést do své ložnice, sluha mi oznámil: „Snídaně se podává v devět hodin,“ rozhlédl se po místnosti, zda je všechno v pořádku, a tiše se vzdálil. „O čem se mi bude dnes v noci zdát?“ pomyslil jsem si, když jsem sfoukával svíčku. „O ženě v bílém? O neznámých obyvatelích tohoto cumberlandského zámku?“ Byl to neobvyklý pocit spát jako přítel nebo člen rodiny v domě, jehož obyvatele člověk nezná ani od vidění!
 
 ## 6
-
-  
 
 Když jsem příštího jitra vstal a rozhrnul záclony, otevřel se mi veselý pohled na moře, rozprostírající se pod jasným srpnovým sluncem, a na vzdálené pobřeží Skotska, ohraničující modravý obzor. Krátce před devátou jsem sešel do přízemí. Onen důstojně se tvářící sluha z předešlé noci mě potkal, jak bloudím po chodbách, a zavedl mě do pokoje, v němž se podávala snídaně. Když jsem otevřel dveře, uviděl jsem nejprve bohatě prostřený stůl, stojící uprostřed dlouhé místnosti s mnoha okny. U nejvzdálenějšího okna stála, obrácena zády ke mně, žena vysoké a pěkné postavy. Neslyšela mě vcházet do pokoje, takže jsem se jí mohl chvíli obdivovat, a teprve pak jsem zarachotil židlí, abych upoutal její pozornost. Ihned se ke mně otočila. Její pohyby byly tak plny půvabu, že jsem se nemohl dočkat, až jí uvidím jasně do tváře. Vykročila od okna – a řekl jsem si: „Ta dáma má snědou pleť!“ Popošla o několik kroků – a já jsem si řekl: „Ta dáma je mladá!“ Přiblížila se ještě více – a tu jsem si řekl (s pocitem překvapení, jež se nedá vyjádřit slovy): „Ta dáma je ale ošklivá!“
 
@@ -208,8 +196,6 @@ V tomto okamžiku jsme byli přerušeni příchodem sluhy, který přinesl vzka
 „Počkejte v hale,“ odpověděla pohotově slečna Halcombová sluhovi za mne, „pan Hartright ihned přijde. Chtěla jsem říci,“ pokračovala a obrátila se ke mně, „že máme se sestrou mnoho matčiných dopisů, jež psala mému i jejímu otci. Dnes dopoledne prohlédnu matčinu korespondenci s mým nevlastním otcem. Velmi často pobýval v Londýně a byl téměř neustále mimo venkovské sídlo, matka mu vždy psávala o všem, co se děje v Limmeridge. Je dost pravděpodobné, že budu už něco mít zajištěno, až se opět sejdeme. Oběd se podává ve dvě hodiny. Při obědě vás již budu moci představit své sestře a odpoledne se projdeme po okolí, abychom vám ukázaly svá nejoblíbenější místa. Zatím na shledanou.“
 
 ## 7
-
-  
 
 Slečna Halcombová vyšla z pokoje. Hned nato jsem šel do haly, odkud mě sluha zavedl do prvního poschodí do pokoje ležícího vedle ložnice, v níž jsem první noc přespal. „Mám příkaz pana Fairlieho, abych vám ukázal vaši pracovnu a zeptal se vás, jste-li spokojen s její polohou a osvětlením.“ Musel bych opravdu být velmi náročný, kdyby se mi onen pokoj nebyl zalíbil. Byla to totiž nejhezčí a nejpřepychověji zařízená pracovna, jakou jsem kdy viděl, a nemohl jsem si ji proto vynachválit.
 
@@ -277,8 +263,6 @@ Ve dvě hodiny jsem opět sešel dolů do pokoje, kde se ráno podávala snídan
 
 ## 8
 
-  
-
 Když jsem vešel do pokoje, seděly u stolu slečna Halcombová a starší paní, dřívější vychovatelka slečny Fairlieové, paní Veseyová. Vypadala jako zosobnění lidského klidu a ženské laskavosti. Z její mírné tváře vyzařovala klidná pohoda pokojně tráveného života. Někteří lidé se životem řítí, jiní se jím loudají. Paní Veseyová svůj život proseděla. Seděla doma, ráno i večer; seděla v zahradě; seděla na odpočívadlech na chodbách; zůstávala sedět, když ji přátelé chtěli brát s sebou na procházky, prostě seděla za všech životních situací. Byla to mírná, povolná, nesmírně klidná a neškodná stará dáma, která nikdy ani náhodou v nikom nevyvolala představu, že by od svého narození žila.
 
 Slečna Fairlieová u stolu nebyla a k obědu se ani nedostavila. Po obědě si slečna Halcombová, jejímuž pohotovému zraku nic neušlo, povšimla pohledů, které jsem čas od času vrhal ke dveřím, a pravila: „Chápu vás, pane Hartrighte, divíte se asi, co se stalo s vaší druhou žačkou. Byla již dole a hlava ji přestala už bolet, nebylo jí však ještě natolik dobře, aby s námi poobědvala. Svěříte-li se mému vedení, myslím, že se nám podaří nalézt ji někde v zahradě.“ Pak vzala slunečník, který ležel na sousední židli, a vyvedla mě zahradními dveřmi ven. Nemusím snad ani zdůrazňovat, že paní Veseyová zůstala sedět u stolu, a zřejmě tak bude sedět po celý zbytek odpoledne.
@@ -343,8 +327,6 @@ Než mohla slečna Halcombová pronést poslední slovo, vstal jsem prudce z po
 
 ## 9
 
-  
-
 Tak skončil můj prvý den v limmeridgeském zámku. Jak jen byl rušný! Tajemství oné podoby jsme se slečnou Halcombovou nikomu neprozradili. Ale při první příležitosti zavedla slečna Halcombová řeč na staré časy, na jejich matku, na Annu Catherickovou. Slečna Fairlieová si však na svá školní léta v Limmeridge vzpomínala jen velmi mlhavě. Pamatovala se na podobu mezi sebou a matčinou oblíbenou žačkou jako na něco, co kdysi v dávných dobách muselo existovat, nezmínila se však vůbec o darování bílých šatů, nebo dokonce o zvláštním způsobu, jímž ono děvče slíbilo projevovat svou vděčnost. Vzpomněla si, že Anna zůstala v Limmeridge jen několik měsíců a že pak odjela s matkou do Hampshiru, nevěděla však, zda se ještě vrátily, a ani o nich již nikdy neslyšela. V dopisech paní Fairlieové už o Anně nebylo zmínky. Jediné, co jsme zjistili, byla totožnost oné nešťastnice i důvod, proč byla oblečena celá v bílém, ale zde všechna naše zjištění skončila a mnoho zůstalo neobjasněno.
 
 Míjely dny, míjely týdny a zlatý podzim poznamenal zelené listoví stromů. Byla to klidná, pomalu plynoucí a šťastná doba! A nyní nezbývá, než abych učinil to nejbolestnější přiznání, které člověk může učinit – přiznání vlastní bláhovosti. Zamiloval jsem se do slečny Fairlieové! Byla pro mne nějaká omluva? Jedinou omluvou pro vznik mé náklonnosti byly snad jen dlouhé hodiny, které jsme společně prožívali v limmeridgeském zámku. Dopolední hodiny jsem trávil o samotě ve své pracovně a urovnával kresby svého zaměstnavatele. Byla to však nebezpečná samota, protože místo aby posilovala, napínala mi nervy, neboť po ní následovaly odpoledne a večery trávené den po dni a týden po týdnu ve společnosti dvou žen, z nichž jedna byla nesmírně vtipná a duchaplná a druhá nevýslovně krásná, laskavá a tak upřímná, že si zcela podmanila mé srdce. Neuplynul v oné nebezpečně důvěrné blízkosti učitele a žačky den, v němž by se má ruka nebyla dotkla ruky slečny Fairlieové a v němž by se má tvář téměř nebyla setkala s její tváří, když jsme se spolu nakláněli nad jejím skicářem. A večery trávené společně při hudbě nebo hrách jen přispívaly k dalšímu prohlubování mého citu.
@@ -356,8 +338,6 @@ Jednoho večera jsme se rozešli jako obvykle. Ani tehdy, ani nikdy předtím ne
 Z této bezmocnosti a z tohoto pokoření mě zachránila slečna Halcombová. Její rty mi sdělily onu hořkou, nutnou a neočekávanou pravdu; její ohleduplnost mi umožnila vydržet ránu, které se mi dostalo; a její rozvážnost a odvaha dokázaly napravit následky události, která mohla uvrhnout mne i ostatní obyvatele limmeridgeského zámku do tíživého postavení.
 
 ## 10
-
-  
 
 Jednou ve čtvrtek, koncem třetího měsíce svého pobytu v Lim­meridge, jsem jako obvykle sešel ráno dolů ke snídani. Poprvé za celou dobu neseděla slečna Halcombová na svém obvyklém místě u stolu. Slečna Fairlieová byla venku na trávníku a tam vyčkávala, až do pokoje vejde paní Veseyová nebo slečna Halcombová. Za několik minut se slečna Halcombová konečně objevila. Vypadala starostlivě a za své zpoždění se jen zběžně omluvila. „Mluvila jsem s panem Fairliem o nějaké rodinné záležitosti a tím jsem se zdržela,“ prohlásila. Slečna Fairlieová vešla ze zahrady do pokoje a pozdravili jsme se jako každého rána. Její ruka se mi zdála chladnější než obvykle. Nedívala se na mne a byla velmi bledá. Snídaně trvala krátce; všichni jsme mlčeli. Nakonec promluvila slečna Halcombová: „Hovořila jsem s tvým strýcem, Lauro, a on asi myslí, že by se měl připravit fialový pokoj. Potvrdil také, co jsem ti sdělila. Bude to v pondělí, ne v úterý.“
 
@@ -441,8 +421,6 @@ Slečna Halcombová se na chvíli odmlčela a pak chladně odvětila: „Samoz�
 
 ## 11
 
-  
-
 Při návratu do zámku nikdo z nás nepromluvil ani slovo. Slečna Halcombová odešla ihned do sestřina pokoje a já se uchýlil do své pracovny, abych ještě uvedl do pořádku zbytek kreseb pana Fairlieho. Tak tedy slečna Fairlieová byla zasnoubena a její budoucí manžel byl sir Percival Glyde, baronet a majitel panství v Hampshiru! V Anglii žijí stovky baronetů a desítky z nich vlastní pozemky v Hampshiru. Na podkladě obvyklého usuzování bych tedy ani nemohl vztahovat ony záhadné narážky ženy v bílém na ženicha slečny Fairlieové. Ale přesto ve mně vzniklo jakési podezření. Bylo to snad proto, že jsem ho nyní v mysli spojoval se slečnou Fairlieovou, jež sama byla pro mne od oné noci, kdy jsem si uvědomil onu nesmírnou podobu obou žen, spojena s Annou Catherickovou? V hloubi duše jsem cítil, že se kdesi v neproniknutelné budoucnosti skrývá nějaké nebezpečí hrozící nám všem.
 
 Asi půl hodiny jsem se zabýval pořádáním kreseb, když tu náhle někdo zaklepal na dveře a k mému překvapení vešla slečna Halcombová. Vypadala rozhněvaně a vzrušeně. Dříve než jsem jí mohl nabídnout židli, sama se jedné chopila, posadila se těsně vedle mne a řekla: „Pane Hartrighte, doufala jsem, že alespoň pro dnešek máme všechna nepříjemná témata za sebou. Bohužel tomu tak není. Někdo tu zosnoval jakousi podlou ničemnost, jejímž cílem je odstrašit mou sestru od blížící se svatby. Viděl jste přece, jak jsem poslala toho zahradníkova pomocníka s dopisem pro sestru do domu, že?“
@@ -490,8 +468,6 @@ Cítil jsem, jak se mi krev vehnala do obličeje. Uvědomil jsem si totiž, že 
 Bez dalšího slova jsem jí otevřel dveře a vyšel za ní na chodbu. Nepřesvědčila mě. Zahradníkova pomocníka jsme zastihli při práci na zahradě, nedozvěděli jsme se však od něho nic nového. Žena, která mu dala dopis, byla starší osoba, nepromluvila s ním ani slovo a rychle se vzdálila směrem k jihu. Víc nám nemohl říci. Vesnice ležela od zámku na jih. Proto jsme tam zamířili.
 
 ## 12
-
-  
 
 V Limmeridge jsme se obšírně vyptávali nejrůznějších lidí, ale nic jsme nezjistili. Konečně jsme došli až na druhý konec vesnice, kde stála škola, již dala postavit paní Fairlieová. Když jsme procházeli dvorkem ke vchodu do školy, nahlédl jsem otevřeným oknem do třídy. Učitel seděl u stolu, děti seděly v lavicích kromě jednoho chlapce, který stál na hanbě. „Uslyším-li, chlapci,“ říkal učitel právě, „v této škole ještě jedno slovo o nějakém duchu, dopadne to s vámi hůře! Žádní duchové nejsou, a věří-li proto nějaký chlapec na duchy, pak věří v něco, co vůbec nemůže existovat.“
 
@@ -546,8 +522,6 @@ Náhrobek tedy zřejmě začala čistit cizí ruka. Když jsem uvedl do souvislo
 Vrátil jsem se do pracovny a pokračoval v rovnání kreseb. Když jsem byl se svou prací hotov, chýlilo se již slunce k západu. Sešel jsem do haly, vzal plášť a klobouk a vyklouzl z domu, aniž mě kdo spatřil. Na západě se kupily temné mraky a od moře vál chladný vítr. Třebaže bylo moře daleko, hukot příboje se nesl přes rašeliniště a zvučel mi v uších, když jsem vcházel na hřbitov. Nebyl tu nikdo. Místo vypadalo opuštěněji než jindy. Vyhledal jsem si vhodný úkryt a s pohledem upřeným na kříž tyčící se nad hrobem paní Fairlieové jsem začal čekat na příchod neznámé.
 
 ## 13
-
-  
 
 Schylovalo se k soumraku, když jsem zaslechl kroky a hlas. Kroky se blížily z druhé strany kostela a hlas byl ženský. „Nedělej si, má drahá, starosti s dopisem,“ říkal. „Dala jsem ho tomu chlapci zcela nenápadně a chlapec si jej vzal, aniž se na co zeptal. Rozešli jsme se každý svou cestou a nikdo mě nesledoval – za to ti ručím.“
 
@@ -707,8 +681,6 @@ Paní Clementsová na mne významně a smutně pokývala hlavou. „Dobrou noc,
 
 ## 14
 
-  
-
 Za půl hodiny jsem byl zpět v zámku a podal slečně Halcombové zprávu o všem, co se stalo. Naslouchala mému vyprávění od začátku do konce s vytrvalou a tichou pozorností, která u ženy její povahy byla nejsilnějším důkazem závažnosti, jež mým slovům přikládala. Když jsem domluvil, prohlásila jen: „Děsím se budoucnosti, mám neblahou předtuchu.“
 
 „Budoucnost může záviset na tom,“ namítl jsem, „jak dokážeme využít přítomnosti. Není vyloučeno, že Anna Cathericková bude mluvit ochotněji a otevřeněji s nějakou ženou, než mluvila se mnou. Kdyby slečna Fairlieová…“
@@ -797,8 +769,6 @@ Když jsme byli opět sami, zastavili jsme se a pohlédli na sebe.
 
 ## 15
 
-  
-
 Když jsme se vraceli k průčelí zámku, předjela před vchod bryčka. Slečna Halcombová počkala, až se koně zastavili, a s napřaženou pravicí uvítala starého pána, který křepce vyskočil z bryčky. Přijel pan Gilmore. Když jsme si byli představeni, prohlédl jsem si ho s neskrývaným zájmem. Tak tento muž měl zůstat v limmeridgeském zámku, až budu pryč; měl vyslechnout baronetovo vysvětlení, měl pomoci slečně Halcombové při jejím úsudku o celém případě, měl vyčkat, až bude zcela dořešena otázka svatby, a vlastní rukou měl sepsat svatební smlouvu, která by neodvolatelně zavázala slečnu Fairlieovou.
 
 Zevnějškem se pan Gilmore v ničem nepodobal obvyklé představě, jakou chovají lidé o advokátech. Měl brunátnou pleť, bílé pečlivě kartáčované vlasy, dokonale padnoucí oblek. Jeho chování bylo bezvadné a pod tradiční zjemnělou zdvořilostí se skrývaly bystrý duch a pohotovost člověka, jehož nutí životní zaměstnání, aby uchovával své schopnosti v dokonalém pořádku. Když starý pán a slečna Halcombová odešli, aby si nerušeně promluvili o rodinných záležitostech, odebral jsem se do zahrady, abych se naposled rozloučil s místy, která byla navždy spojena s mým kratičkým snem o štěstí a lásce.
@@ -878,5 +848,7 @@ Při loučení jsem nedokázal vyslovit všechno, co jsem měl na jazyku, vše s
 „Tyto dny se snad již nikdy nevrátí, ale slibte mi alespoň, že mi budete důvěřovat!“
 
 Tu se jí zalily oči slzami a odpověděla zlomeným hlasem: „Slibuji vám to, slibuji vám to z celého srdce. A teď, prosím, teď odejděte.“ Pohlédl jsem na ni ještě naposled, jak klesla do křesla a hlavu opřela do dlaní, a opustil jsem pokoj. Dveře se zavřely, mezi námi se rozevřela hluboká propast rozloučení a obraz Laury Fairlieové již byl vzpomínkou minulosti.
+
+  
 
 Zde končí vyprávění Waltera Hartrighta.

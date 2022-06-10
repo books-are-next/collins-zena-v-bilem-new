@@ -21,6 +21,8 @@ Jak pán přijal tuto zprávu, nevím, protože jsem u toho nebyla. Když jsem 
 
 Závěrem musím prohlásit v odpověď na otázky, které mi byly položeny:
 
+  
+
 1\. že ani já, ani služebná jsme neviděly, že by náš pán byl lady Glydové podával nějaký lék,
 
 2\. že pán, pokud vím, nebyl nikdy sám v pokoji s lady Glydovou,

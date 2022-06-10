@@ -3,8 +3,6 @@ title: "Pokračování příběhu v\_podání Elízy Michelsonové, hospodyně s
 contentType: prose
 ---
 
-  
-
 Byla jsem požádána, abych stručně vylíčila, co vím o nemoci slečny Halcombové a o okolnostech, za nichž má paní lady Glydová odcestovala z Blackwateru do Londýna.
 
 Nečinila jsem si v té době poznámky, a nejsem si proto jista datem, myslím však, že se nemýlím, prohlásím-li, že slečna Halcombová vážně ochořela během prvních dvou týdnů v červnu. V Blackwateru se snídaně podávala dost pozdě, někdy dokonce až v deset hodin. Onoho rána, o němž hovořím, neobjevila se slečna Halcombová (která obvykle přicházela dolů první) u stolu. Když rodina čekala celou čtvrthodinu, poslali pro ni služebnou, která přiběhla dolů zcela zděšená. Šla jsem se ihned podívat nahoru, co se děje. Slečna Halcombová tam chodila po pokoji ve vysoké horečce, v ruce držela pero a nebyla schopna slova. První za námi přiběhla lady Glydová. Byla tak vyděšena a zdrcena, že v ničem nemohla pomoci. Hrabě Fosco a paní hraběnka se zachovali velmi pěkně. Pan hrabě připravil pro nemocnou obklad a lék, abychom jí pomohli ještě před příchodem lékaře. Obklad jsme slečně Halcombové dali, ale lék odmítla a nemohli jsme ji přinutit, aby ho vypila. Asi za hodinu přišel doktor Dawson, starší, v okolí velmi vážený lékař, který nemoc označil za vážnou. Pan hrabě se pustil s doktorem Dawsonem do hovoru a pronesl určité osobní názory o této nemoci. Doktor Dawson poněkud nezdvořile prohlásil, že není zvyklý radit se s laiky a amatéry o nemocech. Pan hrabě se shovívavě usmál a opustil pokoj. Před odchodem mi sdělil, že ho najdu, bude-li ho nějak třeba, v besídce u břehu jezera. Proč šel právě tam, nemohu říci. Ale zůstal tam až do sedmi večer, kdy se v Blackwateru podávala večeře.

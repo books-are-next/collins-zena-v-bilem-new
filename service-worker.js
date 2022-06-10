@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-8c0ce88';
+const CACHE = 'cache-0aa9a22';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./zena_v_bilem_005.html","./zena_v_bilem_006.html","./zena_v_bilem_007.html","./zena_v_bilem_008.html","./zena_v_bilem_009.html","./zena_v_bilem_010.html","./zena_v_bilem_011.html","./zena_v_bilem_012.html","./zena_v_bilem_013.html","./zena_v_bilem_014.html","./zena_v_bilem_015.html","./zena_v_bilem_016.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_zena_v_bilem_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./style/style.min.css","./scripts/bundle.js","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./zena_v_bilem_005.html","./zena_v_bilem_006.html","./zena_v_bilem_007.html","./zena_v_bilem_008.html","./zena_v_bilem_009.html","./zena_v_bilem_010.html","./zena_v_bilem_011.html","./zena_v_bilem_012.html","./zena_v_bilem_013.html","./zena_v_bilem_014.html","./zena_v_bilem_015.html","./zena_v_bilem_016.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./scripts/bundle.js","./style/style.min.css","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_zena_v_bilem_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {

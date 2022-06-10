@@ -3,8 +3,6 @@ title: "Pokračování příběhu v\_podání pana Fredericka Fairlieho"
 contentType: prose
 ---
 
-  
-
 Je velkým neštěstím mého života, že mě nikdo nechce nechat na pokoji. Proč mě musí všichni lidé něčím obtěžovat? Nikdo mi na tuto otázku neodpoví a nikdo mě nenechá na pokoji. Všichni příbuzní, přátelé, a dokonce i cizí lidé se spolčují, aby mě obtěžovali, čeho jsem se dopustil? Čím jsem se provinil? Padesátkrát denně se ptám sama sebe, svého sluhy Louise – čeho jsem se dopustil? Nikdo z nás to neví. Prapodivné!
 
 Poslední mrzutost, která na mne dolehla, je výzva, abych napsal toto vyprávění. Je člověk s tak pocuchanými nervy vůbec schopen napsat takové vyprávění? Když jsem podal tuto nesmírně rozumnou námitku, bylo mi řečeno, že vím o určitých velmi závažných událostech, které se přihodily v souvislosti s mou neteří, a že jsem proto vhodnou osobou k jejich vylíčení. Bylo mi dokonce vyhrožováno, že mě postihnou, nesplním-li řádně tuto výzvu, důsledky, na něž se obávám jen pomyslit. Opravdu není třeba mi vyhrožovat! Člověk s tak porouchaným zdravím a takovými rodinnými starostmi není ani schopen odporu. Pokusím se upamatovat, na co jen budu moci (a přitom protestuji), a zapsat, co jen budu moci (a rovněž protestuji), a na co se neupamatuji nebo co nebudu moci napsat, na to se bude muset upamatovat Louis a zapsat to za mne. Prý si mám pamatovat i jednotlivé dny! Proboha! Nikdy v životě jsem si něco takového nepamatoval, jak bych s tím mohl začít teď?

@@ -5,9 +5,9 @@ contentType: prose
 
 ## 1
 
-  
-
 Když jsem dočetl vyprávění paní Catherickové, pečlivě jsem dopis zapečetil a uložil. Příštího dne ráno jsem zašel na poštovní úřad. Marianin dopis tam byl, byl však nezvykle lehký. S obavami jsem otevřel obálku: obsahovala jen malý lístek s těmito chvatně načrtnutými větami:
+
+  
 
 Vraťte se pokud možno ihned. Musely jsme se přestěhovat. Naše adresa je Gower’s Walk číslo 5 ve Fulhamu. Čekáme na Vás. Nemějte starosti, jsme obě zdrávy a v bezpečí. Přijeďte brzy.
 
@@ -20,8 +20,6 @@ První překážku tvořilo úřední ohledání, jehož jsem se musel osobně �
 Jednání u soudce v Knowlesbury dopadlo přesně podle očekávání. Žalobci se prostě nedostavili a já byl zproštěn viny. Před odjezdem jsem ještě písemně poděkoval doktorovi Dawsonovi a pak nastoupil na rychlík do Londýna.
 
 ## 2
-
-  
 
 Pozdě večer jsem dorazil do našeho nového bytu. Laura i Marian mě již očekávaly. Při pohledu na obě sestry jsem poznal, která z nich si byla vědoma nebezpečí a nesla tíhu všech starostí po dobu mé nepřítomnosti. Byla to Marian a Lauřin veselý pohled a radostný úsměv prozrazoval, že byla ušetřena zpráv o manželově strašné smrti a že jí nebyl znám ani pravý důvod náhlé změny bydliště. Když se Laura odebrala na lůžko, poděkoval jsem Marian za všechno, co učinila. Nechtěla však o tom ani slyšet.
 
@@ -87,8 +85,6 @@ Tak byla tedy vysvětlena Annina záhada. A zde také mizí tragická postava, 
 
 ## 3
 
-  
-
 Uplynuly čtyři měsíce. Nastal duben, měsíc jara, měsíc změn. Žili jsme klidně a spokojeně v novém domově. Měl jsem úspěchy v práci, vydělával jsem více, a protože jsem byl prost úzkosti a strachu, který nás všechny předtím svíral, byl jsem také daleko vyrovnanější. Také Marian nabyla své dřívější energie a pevnou rukou vedla naši skrovnou domácnost. Nejlépe zapůsobil náš nový život na Lauru. Její vylekaný a utrápený obličej dostal novou svěžest, z očí jí zmizel strach, její krása se zase vrátila. Neštěstí, které ji kdysi tak vážně ohrozilo na duši i zdraví, zanechalo jedinou stopu. Nepamatovala se vůbec ani na jedinou událost, která se zběhla od chvíle jejího odjezdu z Blackwateru až do okamžiku, kdy jsme se setkali na limmeridgeském hřbitově. Sebemenší připomínka tohoto období u ní vyvolávala duševní skleslost, začala se chvět, slova se jí mátla a paměť začala bloudit. Jinak se však úplně zotavila, takže již připomínala onu šťastnou a bezstarostnou Lauru zašlých dnů. A tato změna v nás oživila lásku, která stále dřímala v našich srdcích. Když jsme se viděli – a to bylo samozřejmě mnohokrát za den – ostýchali jsme se jeden druhého. Naše ruce se opět začaly chvět, když se letmo setkaly. Když byla Marian s námi, naše pohledy se vyhýbaly. Když jsme byli spolu sami, upadali jsme do rozpaků a dlouho mlčeli. A když jsem se jí náhodou dotkl, rozbušilo se mi srdce jako kdysi v Limmeridge.
 
 Byl jsem si vědom, že toto napětí musí už jednou skončit, že naše vztahy musí být nějak upraveny a že je na mně, abych v této věci učinil první krok. Protože jsme se potřebovali všichni zotavit, odjeli jsme na čtrnáct dní k moři. Asi třetího dne našeho pobytu jsem se odhodlal k rozhovoru s Marian.
@@ -119,8 +115,6 @@ Za deset dní jsme byli ještě šťastnější. Konala se svatba.
 
 ## 4
 
-  
-
 Zůstali jsme u moře ještě čtrnáct dní. Pak jsme se vrátili do Londýna. Nad námi se začaly shlukovat stíny nastávajícího zápasu.
 
 Předně bylo nutno dozvědět se o Foskovi co nejvíce podrobností. Přečetl jsem znovu pečlivě všechna vyprávění, ale nikde jsem nezjistil, že by byl hrabě otevřeně vystoupil proti Lauře nebo že by se byl zřejmě dopustil nějakého nečestného, nebo alespoň neprozřetelného činu. Uvažoval jsem proto, na koho se obrátit o pomoc, a přitom jsem si vzpomněl na svého dobrého italského přítele, na profesora Pesku. Než jsem ho však požádal o přispění, musel jsem si napřed svého budoucího soupeře prohlédnout sám, vždyť jsem ho ještě nikdy neviděl. Tři dny po návratu do Londýna jsem se vypravil do ulice, v níž bydlil. Za okny vedoucími do ulice nebylo nikoho vidět. Obešel jsem proto dům. Jedno z oken vedoucích do zahrady bylo otevřené a z něho se ozýval hluboký hlas, který jsem podle Marianina popisu poznal jako hlas hraběte Foska. Právě cvičil své ptáčky, jako to činíval v Blackwateru. Pak hlas zmlkl, hrabě nejspíš vyšel z pokoje. Za chvíli se ozvala nějaká italská árie, zaskřípaly domovní dveře a hrabě vyšel na ulici. Přešel přes ulici a kráčel pomalu k středu města. Šel jsem za ním. Procházeli jsme ulicemi, kde byly přepychové obchody. Hrabě se zastavil před jedním optikem, chvíli nahlížel do výkladní skříně, pak vešel do krámu a po chvíli opět vyšel. V ruce měl divadelní kukátko. Po několika krocích se zastavil před divadelními plakáty, pozorně je pročítal, chvíli rozvažoval a pak zastavil kolemjedoucí drožku. „Do Opery!“ nařídil a odjel.
@@ -134,8 +128,6 @@ Přešel jsem přes ulici a podíval se na plakáty sám. Jeho pozornost zřejm
 A vydali jsme se do divadla.
 
 ## 5
-
-  
 
 Došli jsme tam pozdě – právě zněly poslední tóny předehry. Sedadla v přízemí byla všechna obsazena; rozhlížel jsem se, kde najdu hraběte, a po chvíli jsem ho zpozoroval. Seděl na velmi dobrém místě, uprostřed třetí řady přímo za křesly. Zavedl jsem proto Pesku do krajní uličky na místo, které bylo souběžné s jeho sedadlem. Pesca dosud nevěděl, proč jsem ho přivedl do divadla, a podivil se jen, když jsem odmítl postavit se blíže k jevišti.
 
@@ -213,8 +205,6 @@ Nato klesl do křesla, odvrátil se ode mne a skryl obličej v dlaních. Než 
 
 ## 6
 
-  
-
 Když jsem vyšel z Peskova bytu, bylo deset hodin v noci. Uvědomil jsem si, že mám na vybranou buď se ihned, ještě teď v noci, vypravit za hrabětem, nebo vyčkat do rána, a tak se vydat v nebezpečí, že navždy ztratím příležitost získat důkaz o podvodu, jehož obětí se Laura stala. Bylo mi nad slunce jasné, proč hrabě tak překotně odešel z divadla. Třeba jsem neviděl znamení na jeho paži, byl jsem přesvědčen, že je členem Bratrstva – vždyť poznal Pesku! A to, že Pesca ho nepoznal, neznamenalo nic, vždyť jeho tvář mohla za léta doznat takových změn, které rozpoznání vyloučily. Rozhodl jsem se proto jít neprodleně k Foskovi. Předtím jsem však musel učinit jisté bezpečnostní opatření. Hrabě by totiž byl schopen mě klidně zabít, jen aby odstranil nepohodl­ného svědka. Nejbezpečnější zárukou pro mne tedy byl dopis, v němž bych uvedl svůj názor na Foska a jenž bych svěřil do bezpečných rukou. Napsal jsem proto Peskovi list tohoto znění:
 
 „Muž, jehož jsem ti ukázal dnes večer v Opeře, je podle mého názoru členem Bratrstva, jež kdysi zradil. Ihned si ověř toto mé tvrzení. Jméno, pod nímž žije v Anglii, znáš. Bydlí ve Forest Road číslo 5, St. John’s Wood. Ve jménu našeho přátelství tě žádám, abys bez milosti a bezodkladně použil proti tomuto muži moci, která Ti je svěřena. Odvážil jsem se všeho, všechno jsem ztratil a svůj neúspěch zaplatil životem.“
@@ -244,8 +234,6 @@ Marian naléhala dále, ale neustoupil jsem. Rozloučil jsem se s ní, seběhl 
 Dojeli jsme k cíli za necelou čtvrthodinu. Vystoupil jsem z drožky nedaleko Foskova domu, zaplatil kočímu a šel ke vchodu. Když jsem se blížil ke dveřím, zpozoroval jsem, že proti mně k nim kráčí z druhé strany nějaký muž. Minuli jsme se pod plynovou lucernou. Ihned jsem v něm poznal onoho cizince s jizvou na tváři a myslím, že i on poznal mne. Neřekl však nic a pomalu kráčel dál. Byl tu náhodou? Sledoval snad hraběte už z Opery? Čekal jsem několik okamžiků, až zmizí z dohledu, a pak jsem zazvonil. Bylo za deset minut půl dvanácté – dost pozdě na to, aby se mě hrabě zbavil výmluvou, že je již na lůžku. Když služebná otevřela dveře, podal jsem jí navštívenku a vzkázal hraběti, že s ním chci mluvit o důležité záležitosti. Služebná se za chvíli vrátila s dotazem, o jakou záležitost jde. Odpověděl jsem, že o tom mohu mluvit jenom s hrabětem. Znovu odešla, znovu se vrátila a tentokráte mě vyzvala, abych vstoupil.
 
 ## 7
-
-  
 
 Hala nebyla osvětlena, ale ve sporém světle svíčky, kterou služebná přede mnou nesla, jsem viděl, jak z jednoho pokoje vychází starší žena. Vrhla na mne jedovatý pohled a pomalu stoupala po schodišti, aniž odpověděla na mou úklonu. Určitě to byla hraběnka Fosková. Služebná mě zavedla do pokoje, z něhož hraběnka právě vyšla. Octl jsem se tváří v tvář hraběti Foskovi.
 
@@ -387,13 +375,9 @@ Drožka již čekala před domem. Pan Rubelle a služebná snesli zavazadla a 
 
 ## 8
 
-  
-
 Foskovo prohlášení bylo sepsáno nabubřelým slohem, vlastním tomuto člověku. Bylo by zbytečné, kdybych je zde uvedl doslova, s většinou událostí jsme již dostatečně seznámeni. Z jeho pamětního spisu jsem se mezi jiným dočetl, že sám opsal první Marianin dopis londýnskému advokátovi, že hraběnka omámila Lauřinu komornou, aby si mohla přečíst dopisy, které jí Marian svěřila, že hrabě sám povolal do Blackwateru paní Rubellovou, jež mu byla naprosto oddána. Zvlášť podrobně byl popsán způsob, jakým byla provedena záměna Anny Catherickové s Laurou. Hrabě vylákal s hraběnčinou pomocí 24. července Annu Catherickovou z jejího bytu pod záminkou, že jí umožní setkání s Laurou. Když pak Anna přišla do Foskova domu a místo Laury tam našla hraběnku, osobu zcela neznámou, zmocnil se jí náhle podvědomý strach, který v ní vyvolal takový srdeční záchvat, že ji museli uložit ihned na lůžko a povolat lékaře. Foskův plán sice počítal s Anninou smrtí a hrabě byl ochoten ji v případě potřeby i urychlit, ale chtěl ovšem, aby smrt nastala až za několik dní po Lauřině příjezdu do Londýna. Náhlé zhoršení Annina zdravotního stavu vyvolané jejím rozrušením a její nečekaně rychlá smrt způsobily pochopitelně komplikace, vždyť Laura přijela do Londýna den po své „smrti“, tedy den po smrti Anny Catherickové. Hrabě ji odvezl z nádraží přímo do domu pana Rubella a tam dva jím podplacení svědci vydali prohlášení o tom, že je duševně chorá. Když Laura seznala, že byla podvedena, že Marian v domě není, zhroutila se. Fosco jí dal lék, ve kterém byl uspávací prostředek, a pod vlivem tohoto prostředku zůstala Laura přes celou noc až do odpoledne druhého dne ve stavu naprostého omámení. Ještě v noci ji paní Rubellová převlékla do Anniných šatů a večer 27. července ji, ještě zpola omámenou, odvezla s hrabětem jako Annu Catherickovou do ústavu. Její příjezd sice vzbudil podiv, ale nikoli podezření dík lékařským dobrozdáním, jejímu šatstvu i celkové podobě se zesnulou Annou.
 
 ## 9
-
-  
 
 Když jsem dočetl toto vskutku nezvyklé líčení, uplynula již předepsaná půlhodina. Pan Rubelle se podíval na hodinky, vstal, uklonil se mi a já odešel z domu. Ani jeho, ani jeho manželku jsem již nikdy víc nespatřil.
 
@@ -425,8 +409,6 @@ Nato jsme sepsali s panem Kyrlem výzvu určenou všem nájemcům limmeridgesk�
 
 ## 10
 
-  
-
 Konečně nastal den, kdy Laura opět vstoupila do limmeridgeského zámku. Shromáždili jsme se v pokoji, v němž se obvykle podávala snídaně. Když tam Laura a Marian vešly, všichni přítomní povstali. Na jejich tvářích byl patrný údiv a místnost se rozšuměla překvapenými hlasy. Byl dokonce přítomen i pan Fairlie, po jeho boku stál pan Kyrle a za ním komorník, držící v jedné ruce lahvičku s vonnou solí a v druhé bílý kapesník napuštěný kolínskou vodou.
 
 Zahájil jsem shromáždění výzvou k panu Fairliemu, aby prohlásil, že jsme se sešli na jeho přání a s jeho souhlasem. Pan Fairlie rozpřáhl paže a s pomocí pana Kyrleho a komorníka povstal. Pak řekl: „Dovolte, abych vám představil pana Hartrighta. Jak víte, jsem neustále churav a pan Hartright bude tak laskav a vše vám vysvětlí za mne. Jde tu skutečně o velmi trapnou záležitost. Vyslechněte ho, prosím, a nehlučte.“ Po těchto slovech klesl zpět do křesla a hledal záchranu ve svém voňavém kapesníku.
@@ -440,8 +422,6 @@ Odpověděla mi bouře radostných výkřiků. Všichni obstoupili Lauru a rado
 Večer jsme se rozloučili s panem Kyrlem, jeho úředníkem a voz­kou, kteří se vraceli do Londýna ještě večerním vlakem. Po jejich odjezdu nám byl doručen nehorázný vzkaz pana Fairlieho, v němž nám vyjádřil své blahopřání a dotazoval se, jak dlouho ještě hodláme setrvat v jeho domě. Vzkázal jsem mu, že cíle, pro který jsme do jeho domu šli, je již dosaženo, a že se nemusí obávat, že by nás ještě kdy v životě viděl nebo o nás slyšel. Odešli jsme pak ihned ze zámku, přenocovali u našich přátel na Toddově dvoře a nazítří ráno odjeli, doprovázeni celou vesnicí, zpět do Londýna.
 
 ## 11
-
-  
 
 K řetězu událostí spínajícímu tento příběh musím dodat ještě dvě. Jeden z mých přátel, jemuž jsem byl zavázán díky za své zaměstnání, mě požádal, abych zajel za něho do Paříže a zjistil tam podrobnosti o jistém novém vynálezu týkajícím se tisku ilustrací. Budu-li mít úspěch, bylo mi slíbeno pevné zaměstnání v časopise, pro nějž jsem kreslil. Do Paříže jsem necestoval sám. Můj přítel Pesca se v poslední chvíli rozhodl, že pojede se mnou. Od oné noci v Opeře ještě nenabyl své dřívější bezstarostnosti a doufal, že ho krátký pobyt v Paříži trochu rozptýlí.
 
@@ -472,8 +452,6 @@ Jakmile jsem zaslechl tato slova, zařadil jsem se mezi zvědavce a čekal, až
 Jsem však přesvědčen o tom, že můj předpoklad byl správný a že ony řezné rány v podobě T znamenaly „traditore“ – zrádce. Příštího dne byl hraběnce Foskové doručen anonymní dopis. Hraběnka pak dala manželovo tělo odvézt a pohřbila je na pařížském hřbitově Père Lachaise.
 
 ## 12
-
-  
 
 Po návratu z Paříže jsme žili klidně a spokojeně. Mé výdělky plně stačily pro naši skromnou domácnost. V únoru příštího roku se nám narodilo první dítě – syn. Když bylo malému Walterovi šest měsíců, musel jsem odjet na čtrnáct dní do Irska. Ráno patnáctého dne jsem se vrátil domů, ale nikoho jsem tam nenašel. Na stole leželo psaní, z něhož jsem se dozvěděl, že Laura a Marian odcestovaly i s dítětem den předtím do Limmeridge, že tam mám za nimi neprodleně přijet a nemám se ničeho obávat. Bližšího vysvětlení se mi dostane teprve v Limmeridge.
 

@@ -5,8 +5,6 @@ contentType: prose
 
 ## 1
 
-  
-
 Píšu tyto řádky na žádost svého přítele Waltera Hartrighta, abych v nich vylíčil události, které se vážným způsobem dotkly zájmů slečny Fairlieové. Došlo k nim až po odjezdu pana Hartrighta z limme­ridgeského zámku. Má účast jako vypravěče této části příběhu je důsledkem toho, že jsem byl v době pobytu sira Percivala Glyda rovněž přítomen v Limmeridge a že jsem osobně přispěl k vyřešení jedné z nejdůležitějších událostí, které se tehdy odehrály.
 
 Do limmeridgeského zámku jsem přijel v pátek druhého listopadu a u pana Fairlieho jsem hodlal zůstat až do příjezdu sira Percivala Glyda. Jestliže by došlo ke stanovení dne sňatku slečny Fairlieové, měl jsem si odvézt příslušné pokyny zpět do Londýna a tam podle nich vypracovat svatební smlouvu. V pátek mě pan Fairlie neráčil přijmout. Již dlouhá léta byl churav, nebo spíše se domníval, že je churav, a necítil se natolik zdráv, aby se mnou pohovořil. Slečna Halcombová byla prvním členem rodiny, s nímž jsem mluvil. Přivítala mě u vchodu do zámku a představila panu Hartrightovi, který již dlel nějakou dobu v Limmeridge. Se slečnou Fairlieovou jsem se setkal až později, při večeři. Nevypadala dobře a bylo mi jí líto. Pan Hartright na mne zapůsobil velmi dobrým dojmem, brzy jsem si však povšiml, že není prost společenských nedostatků typických pro jeho věk. Jsou tři věci, které nedokáže ani jeden mladý muž této generace. Neumí posedět při víně, neumí hrát whist a nedovede skládat dámám poklony. Pan Hartright netvořil výjimku z tohoto obecného pravidla. Jinak to však byl skromný mladý muž dokonalého vystupování.
@@ -77,21 +75,19 @@ Tato poslední slova mě překvapila, a abych řekl pravdu, trochu se mě i do
 
 ## 2
 
-  
-
 U večeře jsme se opět sešli. Sir Percival byl tak hlučně veselý, že jsem v něm stěží poznal muže, jehož tichý takt, jemné chování a rozumnost na mne při ranním rozhovoru tak silně zapůsobily. Jediným zbytkem jeho ranního chování byl jeho postoj k slečně Fairlieové. Stačil její jediný pohled nebo jediné slovo, aby se přestal hlučně smát, zarazil prudký spád svých slov a ihned soustředil celou pozornost jenom na ni. Slečna Fairlieová tím byla poněkud vyvedena z obvyklého klidu, zůstávala však i nadále upjatá a ledová.
 
 Den nato, v úterý, se sir Percival ráno vypravil do Toddova dvora, ale jak jsem se později dozvěděl, nic nezjistil. Po svém návratu měl rozhovor s panem Fairliem a odpoledne si vyjel se slečnou Halcombovou. Jinak se neudálo nic, co by stálo za zmínku.
 
 Středeční poštou došla odpověď paní Catherickové. Zněla takto:
 
+  
+
 Vážená slečno, potvrzuji příjem Vašeho dopisu, v němž se tážete, zda má dcera Anna byla dána pod lékařský dozor s mým vědomím a souhlasem a zda si sir Percival Glyde za účast, která mu v celé záležitosti připadá, zasluhuje mou vděčnost. Přijměte laskavě mou kladnou odpověď na obě tyto otázky.
 
 V úctě
 
 Jana Anna Cathericková
-
-  
 
 Byla to odpověď stručná, jasná a výstižná; svou formou připomínal tento dopis spíše obchodní psaní a jeho obsah dokonale potvrzoval baronetovo prohlášení. Takové bylo mé mínění, k němuž se, i když s určitými nepatrnými výhradami, připojila rovněž slečna Halcombová. Nyní bylo nutno seznámit slečnu Fairlieovou s baronetovým vysvětlením. Tohoto úkolu se podjala slečna Halcombová, vrátila se však ještě jednou do pokoje a usedla vedle křesla, v němž jsem četl noviny. Sir Percival krátce předtím vyšel, aby si prohlédl stáje, a v pokoji nebylo nikoho kromě nás dvou. „Pane Gilmore, vy přece víte, že sir Percival včera mluvil s panem Fairliem a že jsme si potom odpoledne vyjeli na procházku?“
 
@@ -173,8 +169,6 @@ Znovu se mi pevně zahleděla do očí: „Přála bych si, abychom to už měli
 
 ## 3
 
-  
-
 Osmý den po návratu do Londýna jsem našel na svém psacím stole dopis od slečny Halcombové. Oznamovala mi, že slečna Fairlieová dala svůj konečný souhlas k sňatku se sirem Percivalem Glydem a že k sňatku dojde podle původního baronetova přání ještě před koncem letošního roku, nejspíše v posledních dvou prosincových týdnech. Slečně Fairlieové bude jedenadvacet let koncem března příštího roku, stane se proto v tomto případě ženou sira Percivala tři měsíce před dosažením plnoletosti. Po tomto stručném oznámení mi slečna Halcombová sdělovala, že sir Percival se vrátil z Cumberlandu zpět do svého domu v Hampshiru a že ona sama s Laurou odjíždí na návštěvu k starým přátelům do Yorkshiru, protože její sestra nesmírně touží změnit prostředí. V dopise nebylo ani slůvka o důvodech, které slečnu Fairlieovou přiměly k souhlasu.
 
 Důvod tohoto náhlého rozhodnutí mi byl objasněn později. Není však mým úkolem podávat zprávu o něčem, co jsem zjistil jen z doslechu. Příslušné okolnosti spadají do rámce osobních poznatků slečny Halcombové, která je vylíčí ve svém vyprávění, jež následuje po mém. V mezidobí mi zbývá jediná povinnost – podat zprávu o zbývající události souvisící s chystaným sňatkem slečny Fairlieové, totiž o přípravě svatební smlouvy.
@@ -219,8 +213,6 @@ Rty mu neklidně zacukaly, víčka mu zamžikala, a tu jsem si začal vyčítat
 
 ## 4
 
-  
-
 Do Limmeridge jsem dojel právě včas k večeři. Zámek byl prázdný a chmurný a působil skličujícím dojmem. Zprávy o zdravotním stavu pana Fairlieho byly nezměněny, a když jsem mu poslal vzkaz o svém příjezdu, dostalo se mi odpovědi, že mě pan Fairlie s potěšením přijme příštího dne ráno. Náhlá zpráva o mém nečekaném příjezdu ho prý tak rozrušila, že po zbytek večera už nebude schopen žádné práce.
 
 Nazítří v deset hodin ráno jsem byl zaveden do pokoje pana Fairlieho. Seděl ve svém obvyklém křesle a jeho duševní i zdravotní stav byl jako obvykle vážný. „Vy, nejlepší z dobrých starých přátel,“ oslovil mě, „daří se vám vskutku dobře? Jak je to od vás milé, že jste mě sem přijel potěšit v mé samotě.“
@@ -256,5 +248,7 @@ Pan Fairlie mi žertovně pohrozil svou stříbrnou lahvičkou na voňavku a pr
 V úterý jsem zaslal panu Merrimanovi změněnou svatební smlou­vu, která vlastně zbavovala dědictví právě ty osoby, jež slečna Fairlieová podle vlastních slov chtěla obdařit. Neměl jsem na vybranou. Kdybych byl odmítl vyhotovit svatební smlouvu sám, byl by se tohoto úkolu podjal jiný advokát.
 
 Můj úkol je tím splněn. Má osobní účast na událostech tohoto rodinného příběhu nesahá za bod, jehož jsem právě dosáhl. Jiná pera než mé popíší podivné okolnosti, které poté nastaly. S vážnou a smutnou myslí uzavírám tuto stručnou zprávu.
+
+  
 
 Zde končí vyprávění pana Gilmora.
