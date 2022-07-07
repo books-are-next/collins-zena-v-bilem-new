@@ -64,7 +64,7 @@
             "filename": "zena_v_bilem_003.md",
             "xhtml": "zena_v_bilem_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -76,7 +76,7 @@
             "filename": "zena_v_bilem_004.md",
             "xhtml": "zena_v_bilem_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -247,7 +247,7 @@
             "filename": "zena_v_bilem_017.md",
             "xhtml": "zena_v_bilem_017.xhtml",
             "id": 16,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -448,6 +448,6 @@
       "user": "books-are-next",
       "repo": "collins-zena-v-bilem-new"
     },
-    "generatedAt": 1655978152847
+    "generatedAt": 1657181729021
   }
 }
