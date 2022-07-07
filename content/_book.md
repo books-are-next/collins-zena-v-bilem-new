@@ -27,7 +27,7 @@ readingOrder:
   - zena_v_bilem_014.html
   - zena_v_bilem_015.html
   - zena_v_bilem_016.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
