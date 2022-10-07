@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "collins-zena-v-bilem-11d68da",
-  "revision": "11d68da",
+  "identifier": "collins-zena-v-bilem-f468c9d",
+  "revision": "f468c9d",
   "readingOrder": [
     "promo.html",
     "zena_v_bilem_005.html",
@@ -27,8 +27,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:49:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923754776
+    "date": "Fri Oct 07 2022 14:00:33 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151233036
   },
   "documents": [
     {
