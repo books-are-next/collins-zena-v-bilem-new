@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "collins-zena-v-bilem-f468c9d",
-  "revision": "f468c9d",
+  "identifier": "collins-zena-v-bilem-5cf3cac",
+  "revision": "5cf3cac",
   "readingOrder": [
     "promo.html",
     "zena_v_bilem_005.html",
@@ -27,8 +27,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:00:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151233036
+    "date": "Mon Oct 10 2022 15:52:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417171761
   },
   "documents": [
     {
@@ -585,7 +585,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 138,
-      "chars": 881,
+      "chars": 882,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -605,7 +605,7 @@
   "totals": {
     "all": {
       "words": 86881,
-      "chars": 516369,
+      "chars": 516370,
       "ideas": 2056
     },
     "chapters": {
